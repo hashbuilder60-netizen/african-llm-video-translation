@@ -1,0 +1,17 @@
+torch>=2.0.0
+transformers>=4.30.0
+sentencepiece
+accelerate
+openai-whisper
+opencv-python
+streamlit
+pandas
+numpy
+scipy
+gtts
+sacrebleu
+nltk
+requests
+beautifulsoup4
+datasets
+huggingface_hub
