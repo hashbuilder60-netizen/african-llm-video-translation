@@ -1,0 +1,39 @@
+{
+    "video_summary": "We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in a car. Both officers are now being checked out at hospital.",
+    "key_topics": [
+        "officers",
+        "breaking",
+        "news",
+        "sydney",
+        "escaped",
+        "serious",
+        "injury",
+        "after",
+        "police",
+        "crashed"
+    ],
+    "total_segments": 2,
+    "segment_analysis": [
+        {
+            "segment_id": 0,
+            "timestamp": "0:00:00",
+            "text": "We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in",
+            "word_count": 50,
+            "has_visual": true,
+            "frames_count": 3
+        },
+        {
+            "segment_id": 1,
+            "timestamp": "0:00:09",
+            "text": "a car. Both officers are now being checked out at hospital.",
+            "word_count": 11,
+            "has_visual": true,
+            "frames_count": 3
+        }
+    ],
+    "statistics": {
+        "total_words": 61,
+        "total_sentences": 2,
+        "video_duration": 19.157875
+    }
+}

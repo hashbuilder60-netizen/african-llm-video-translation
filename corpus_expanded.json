@@ -1,0 +1,1206 @@
+[
+    {
+        "english": "Good morning",
+        "ibibio": "Ememe nnyin"
+    },
+    {
+        "english": "Good afternoon",
+        "ibibio": "Ememe adie"
+    },
+    {
+        "english": "Good evening",
+        "ibibio": "Ememe idiong"
+    },
+    {
+        "english": "Good night",
+        "ibibio": "Kpukpru nnyin"
+    },
+    {
+        "english": "How are you",
+        "ibibio": "Afo ke"
+    },
+    {
+        "english": "I am fine",
+        "ibibio": "Ami adi mme"
+    },
+    {
+        "english": "Thank you",
+        "ibibio": "Sosongo"
+    },
+    {
+        "english": "Thank you very much",
+        "ibibio": "Sosongo ntre"
+    },
+    {
+        "english": "You are welcome",
+        "ibibio": "Emem"
+    },
+    {
+        "english": "Please",
+        "ibibio": "Ntre"
+    },
+    {
+        "english": "Sorry",
+        "ibibio": "Ndo"
+    },
+    {
+        "english": "Goodbye",
+        "ibibio": "Ke kyene"
+    },
+    {
+        "english": "See you tomorrow",
+        "ibibio": "Nyin idem ufok"
+    },
+    {
+        "english": "What is your name",
+        "ibibio": "Ama adi mme"
+    },
+    {
+        "english": "My name is",
+        "ibibio": "Ama ami"
+    },
+    {
+        "english": "Where are you from",
+        "ibibio": "Fo fo"
+    },
+    {
+        "english": "I am from Nigeria",
+        "ibibio": "Ami edi Nigeria"
+    },
+    {
+        "english": "I love you",
+        "ibibio": "Ami okut fo"
+    },
+    {
+        "english": "God bless you",
+        "ibibio": "Abasi mbot fo"
+    },
+    {
+        "english": "Praise God",
+        "ibibio": "Enyene Abasi"
+    },
+    {
+        "english": "Education is important",
+        "ibibio": "Edisua edi mme ekpuk"
+    },
+    {
+        "english": "I am a student",
+        "ibibio": "Ami edi student"
+    },
+    {
+        "english": "I am going to school",
+        "ibibio": "Ami edi ke school"
+    },
+    {
+        "english": "Learning is good",
+        "ibibio": "Edisua edi mme"
+    },
+    {
+        "english": "Read your book",
+        "ibibio": "Sibi ibuot fo"
+    },
+    {
+        "english": "Write in your notebook",
+        "ibibio": "Doko ke ibuot fo"
+    },
+    {
+        "english": "The teacher is here",
+        "ibibio": "Mme ukpong edi ke"
+    },
+    {
+        "english": "I understand the lesson",
+        "ibibio": "Ami kpeme edisua"
+    },
+    {
+        "english": "Ask questions in class",
+        "ibibio": "Bere asak ke class"
+    },
+    {
+        "english": "Study hard every day",
+        "ibibio": "Sip edisua kpukpru"
+    },
+    {
+        "english": "I am sick",
+        "ibibio": "Ami edi obioma"
+    },
+    {
+        "english": "Go to the hospital",
+        "ibibio": "Ke ke hospital"
+    },
+    {
+        "english": "Take your medicine",
+        "ibibio": "Gop ogugua fo"
+    },
+    {
+        "english": "Drink clean water",
+        "ibibio": "Nnom mmong mme"
+    },
+    {
+        "english": "Wash your hands",
+        "ibibio": "Fo ibokido fo"
+    },
+    {
+        "english": "See the doctor",
+        "ibibio": "Ke ke dokita"
+    },
+    {
+        "english": "I have a headache",
+        "ibibio": "Ami edi obioma ke itie"
+    },
+    {
+        "english": "Rest and get well",
+        "ibibio": "Kpom nsisip"
+    },
+    {
+        "english": "Health is wealth",
+        "ibibio": "Ndito edi iman"
+    },
+    {
+        "english": "Eat good food",
+        "ibibio": "Di idiok mme"
+    },
+    {
+        "english": "My father",
+        "ibibio": "Ete ami"
+    },
+    {
+        "english": "My mother",
+        "ibibio": "Eka ami"
+    },
+    {
+        "english": "My brother",
+        "ibibio": "Adiaha ami"
+    },
+    {
+        "english": "My sister",
+        "ibibio": "Adiaha ami"
+    },
+    {
+        "english": "My family",
+        "ibibio": "Ufok ami"
+    },
+    {
+        "english": "My children",
+        "ibibio": "Mme emi ami"
+    },
+    {
+        "english": "The family is together",
+        "ibibio": "Ufok edi ke"
+    },
+    {
+        "english": "I love my family",
+        "ibibio": "Ami okut ufok ami"
+    },
+    {
+        "english": "We eat together",
+        "ibibio": "Nyin di ke"
+    },
+    {
+        "english": "Family is everything",
+        "ibibio": "Ufok edi ekpuk"
+    },
+    {
+        "english": "The farm is big",
+        "ibibio": "Mme efik edi kpem"
+    },
+    {
+        "english": "Plant the seeds",
+        "ibibio": "Dom mme mbuk"
+    },
+    {
+        "english": "Harvest the crops",
+        "ibibio": "Gop mme eben"
+    },
+    {
+        "english": "The food is ready",
+        "ibibio": "Idiok edi mme"
+    },
+    {
+        "english": "I am hungry",
+        "ibibio": "Ami edi obioma idiok"
+    },
+    {
+        "english": "The market is open",
+        "ibibio": "Mbok edi ke"
+    },
+    {
+        "english": "Buy food at the market",
+        "ibibio": "To idiok ke mbok"
+    },
+    {
+        "english": "The rain will come",
+        "ibibio": "Mmong edi ke"
+    },
+    {
+        "english": "Water the plants",
+        "ibibio": "Dom mmong ke mme"
+    },
+    {
+        "english": "The harvest is good",
+        "ibibio": "Eben edi mme"
+    },
+    {
+        "english": "Our community is strong",
+        "ibibio": "Mme ufok nyin edi ke"
+    },
+    {
+        "english": "Work together",
+        "ibibio": "Kpom nte ke"
+    },
+    {
+        "english": "Help each other",
+        "ibibio": "Sip mme nte"
+    },
+    {
+        "english": "Respect your elders",
+        "ibibio": "Nnam mme nnyin"
+    },
+    {
+        "english": "Peace in our land",
+        "ibibio": "Emem ke ison nyin"
+    },
+    {
+        "english": "We are one people",
+        "ibibio": "Nyin edi nte"
+    },
+    {
+        "english": "Unity is strength",
+        "ibibio": "Ke nte edi iman"
+    },
+    {
+        "english": "Protect our culture",
+        "ibibio": "Kpom mme ibibio"
+    },
+    {
+        "english": "Our language is beautiful",
+        "ibibio": "Eket nyin edi mme"
+    },
+    {
+        "english": "Speak Ibibio proudly",
+        "ibibio": "Ke Ibibio ke iman"
+    },
+    {
+        "english": "Use the computer",
+        "ibibio": "Gop computer"
+    },
+    {
+        "english": "The internet is useful",
+        "ibibio": "Internet edi mme"
+    },
+    {
+        "english": "Send a message",
+        "ibibio": "Dom mme asak"
+    },
+    {
+        "english": "Call on the phone",
+        "ibibio": "Ke ke fon"
+    },
+    {
+        "english": "Technology helps us",
+        "ibibio": "Technology sip nyin"
+    },
+    {
+        "english": "Learn new skills",
+        "ibibio": "Sip mme edisua"
+    },
+    {
+        "english": "The future is bright",
+        "ibibio": "Nnyin edi mme"
+    },
+    {
+        "english": "Young people are important",
+        "ibibio": "Mme emi edi ekpuk"
+    },
+    {
+        "english": "Build a better Nigeria",
+        "ibibio": "Dom Nigeria mme"
+    },
+    {
+        "english": "Africa is rising",
+        "ibibio": "Africa edi ke"
+    },
+    {
+        "english": "God is great",
+        "ibibio": "Abasi edi kpem"
+    },
+    {
+        "english": "Pray every day",
+        "ibibio": "Dom asak kpukpru"
+    },
+    {
+        "english": "The church is near",
+        "ibibio": "Chos edi ke"
+    },
+    {
+        "english": "Sing praises to God",
+        "ibibio": "Dom ekong ke Abasi"
+    },
+    {
+        "english": "Trust in God",
+        "ibibio": "Kpeme Abasi"
+    },
+    {
+        "english": "God loves us all",
+        "ibibio": "Abasi okut nyin"
+    },
+    {
+        "english": "Our ancestors watch over us",
+        "ibibio": "Mme nnyin ke nyin"
+    },
+    {
+        "english": "Keep our traditions",
+        "ibibio": "Kpom mme ibibio"
+    },
+    {
+        "english": "Dance and celebrate",
+        "ibibio": "Dom mme ekong"
+    },
+    {
+        "english": "Culture is identity",
+        "ibibio": "Ibibio edi ami"
+    },
+    {
+        "english": "One",
+        "ibibio": "Nte"
+    },
+    {
+        "english": "Two",
+        "ibibio": "Iба"
+    },
+    {
+        "english": "Three",
+        "ibibio": "Ita"
+    },
+    {
+        "english": "Four",
+        "ibibio": "Inan"
+    },
+    {
+        "english": "Five",
+        "ibibio": "Itiok"
+    },
+    {
+        "english": "Today",
+        "ibibio": "Adie"
+    },
+    {
+        "english": "Tomorrow",
+        "ibibio": "Ufok"
+    },
+    {
+        "english": "Yesterday",
+        "ibibio": "Ndidi"
+    },
+    {
+        "english": "Morning",
+        "ibibio": "Ememe"
+    },
+    {
+        "english": "Evening",
+        "ibibio": "Idiong"
+    },
+    {
+        "english": "White",
+        "ibibio": "Nfien"
+    },
+    {
+        "english": "Black",
+        "ibibio": "Idiong"
+    },
+    {
+        "english": "Red",
+        "ibibio": "Mfon"
+    },
+    {
+        "english": "Blue",
+        "ibibio": "Mmong"
+    },
+    {
+        "english": "Green",
+        "ibibio": "Efik"
+    },
+    {
+        "english": "Yellow",
+        "ibibio": "Mfon uto"
+    },
+    {
+        "english": "I go",
+        "ibibio": "Ami ke"
+    },
+    {
+        "english": "I come",
+        "ibibio": "Ami bi"
+    },
+    {
+        "english": "I eat",
+        "ibibio": "Ami di"
+    },
+    {
+        "english": "I drink",
+        "ibibio": "Ami nnom"
+    },
+    {
+        "english": "I sleep",
+        "ibibio": "Ami kpom"
+    },
+    {
+        "english": "I work",
+        "ibibio": "Ami kpom"
+    },
+    {
+        "english": "I speak",
+        "ibibio": "Ami ke"
+    },
+    {
+        "english": "I hear",
+        "ibibio": "Ami kpeme"
+    },
+    {
+        "english": "I see",
+        "ibibio": "Ami ke"
+    },
+    {
+        "english": "I know",
+        "ibibio": "Ami kpeme"
+    },
+    {
+        "english": "What is this",
+        "ibibio": "Ama edi ke"
+    },
+    {
+        "english": "Where is it",
+        "ibibio": "Fo edi ke"
+    },
+    {
+        "english": "When will you come",
+        "ibibio": "Fo bi ke"
+    },
+    {
+        "english": "How much is it",
+        "ibibio": "Ama edi ke"
+    },
+    {
+        "english": "Why did you do that",
+        "ibibio": "Fo kpom ke"
+    },
+    {
+        "english": "Who are you",
+        "ibibio": "Ama fo edi"
+    },
+    {
+        "english": "Which one do you want",
+        "ibibio": "Ama fo okut"
+    },
+    {
+        "english": "Can you help me",
+        "ibibio": "Fo sip ami"
+    },
+    {
+        "english": "Do you understand",
+        "ibibio": "Fo kpeme"
+    },
+    {
+        "english": "Are you ready",
+        "ibibio": "Fo edi mme"
+    },
+    {
+        "english": "Vote for your leader",
+        "ibibio": "Dom mme nnyin"
+    },
+    {
+        "english": "Pay your taxes",
+        "ibibio": "Dom mme iman"
+    },
+    {
+        "english": "Obey the law",
+        "ibibio": "Kpom mme edidem"
+    },
+    {
+        "english": "Nigeria is our country",
+        "ibibio": "Nigeria edi ison nyin"
+    },
+    {
+        "english": "We are all citizens",
+        "ibibio": "Nyin edi mme nte"
+    },
+    {
+        "english": "The government serves us",
+        "ibibio": "Edidem sip nyin"
+    },
+    {
+        "english": "Justice for all",
+        "ibibio": "Emem ke nyin"
+    },
+    {
+        "english": "Equal rights for everyone",
+        "ibibio": "Mme iman ke nyin"
+    },
+    {
+        "english": "Corruption is wrong",
+        "ibibio": "Obioma edi mme"
+    },
+    {
+        "english": "Build our nation together",
+        "ibibio": "Dom ison nyin ke"
+    },
+    {
+        "english": "Plant trees everywhere",
+        "ibibio": "Dom mme ediong"
+    },
+    {
+        "english": "Keep our environment clean",
+        "ibibio": "Kpom ison nyin mme"
+    },
+    {
+        "english": "Do not pollute the river",
+        "ibibio": "Kpom mmong mme"
+    },
+    {
+        "english": "Protect the forest",
+        "ibibio": "Kpom mme ediong"
+    },
+    {
+        "english": "Climate change affects us",
+        "ibibio": "Ison ke nyin"
+    },
+    {
+        "english": "Save water every day",
+        "ibibio": "Kpom mmong kpukpru"
+    },
+    {
+        "english": "Recycle your waste",
+        "ibibio": "Dom mme obioma"
+    },
+    {
+        "english": "The earth is our home",
+        "ibibio": "Ison edi ufok nyin"
+    },
+    {
+        "english": "Clean air is important",
+        "ibibio": "Ison edi ekpuk"
+    },
+    {
+        "english": "Nature is beautiful",
+        "ibibio": "Ison edi mme"
+    },
+    {
+        "english": "Football is popular in Nigeria",
+        "ibibio": "Football edi mme ke Nigeria"
+    },
+    {
+        "english": "Exercise every morning",
+        "ibibio": "Kpom edisua ememe"
+    },
+    {
+        "english": "Swimming is good for health",
+        "ibibio": "Mmong edi mme ndito"
+    },
+    {
+        "english": "Play with your friends",
+        "ibibio": "Dom ke mme nte"
+    },
+    {
+        "english": "Win the competition",
+        "ibibio": "Dom mme ekong"
+    },
+    {
+        "english": "Sports build character",
+        "ibibio": "Ekong dom ami"
+    },
+    {
+        "english": "Run fast and win",
+        "ibibio": "Ke iman dom"
+    },
+    {
+        "english": "Team work is important",
+        "ibibio": "Ke nte edi ekpuk"
+    },
+    {
+        "english": "Practice every day",
+        "ibibio": "Kpom edisua kpukpru"
+    },
+    {
+        "english": "Never give up",
+        "ibibio": "Kpom mme nte"
+    },
+    {
+        "english": "Buy and sell goods",
+        "ibibio": "To dom mme iman"
+    },
+    {
+        "english": "Save your money",
+        "ibibio": "Kpom iman fo"
+    },
+    {
+        "english": "Start a business",
+        "ibibio": "Dom mme iman"
+    },
+    {
+        "english": "Hard work pays",
+        "ibibio": "Kpom iman edi mme"
+    },
+    {
+        "english": "Invest in the future",
+        "ibibio": "Dom iman ke nnyin"
+    },
+    {
+        "english": "The economy is growing",
+        "ibibio": "Iman edi ke"
+    },
+    {
+        "english": "Create jobs for youth",
+        "ibibio": "Dom mme kpom ke emi"
+    },
+    {
+        "english": "Trade with your neighbors",
+        "ibibio": "Dom mme iman ke nte"
+    },
+    {
+        "english": "Financial freedom matters",
+        "ibibio": "Iman edi ekpuk"
+    },
+    {
+        "english": "Build wealth gradually",
+        "ibibio": "Dom iman kpukpru"
+    },
+    {
+        "english": "The road is long",
+        "ibibio": "Ison edi kpem"
+    },
+    {
+        "english": "Drive carefully",
+        "ibibio": "Ke mme iman"
+    },
+    {
+        "english": "The bus is coming",
+        "ibibio": "Mme ke bi"
+    },
+    {
+        "english": "We travel by road",
+        "ibibio": "Nyin ke ke ison"
+    },
+    {
+        "english": "The journey is safe",
+        "ibibio": "Ke edi mme"
+    },
+    {
+        "english": "Arrive on time",
+        "ibibio": "Bi ke iman"
+    },
+    {
+        "english": "The bridge is strong",
+        "ibibio": "Mme ison edi iman"
+    },
+    {
+        "english": "Cross the river safely",
+        "ibibio": "Ke mmong mme"
+    },
+    {
+        "english": "The airport is far",
+        "ibibio": "Mme ke edi kpem"
+    },
+    {
+        "english": "Take the right road",
+        "ibibio": "Ke ison mme"
+    },
+    {
+        "english": "It is raining",
+        "ibibio": "Mmong edi ke"
+    },
+    {
+        "english": "The sun is shining",
+        "ibibio": "Akai edi ke"
+    },
+    {
+        "english": "It is very hot today",
+        "ibibio": "Ison edi iman adie"
+    },
+    {
+        "english": "The weather is cool",
+        "ibibio": "Ison edi mme"
+    },
+    {
+        "english": "Prepare for the rain",
+        "ibibio": "Dom mme mmong"
+    },
+    {
+        "english": "The dry season is here",
+        "ibibio": "Ison edi ke"
+    },
+    {
+        "english": "Flood has destroyed farms",
+        "ibibio": "Mmong dom mme efik"
+    },
+    {
+        "english": "The harmattan is coming",
+        "ibibio": "Ison bi ke"
+    },
+    {
+        "english": "Stay indoors during storms",
+        "ibibio": "Ke ufok ke ison"
+    },
+    {
+        "english": "The sky is clear today",
+        "ibibio": "Ison edi mme adie"
+    },
+    {
+        "english": "I am happy",
+        "ibibio": "Ami edi mme"
+    },
+    {
+        "english": "I am sad",
+        "ibibio": "Ami edi obioma"
+    },
+    {
+        "english": "I am angry",
+        "ibibio": "Ami edi iman"
+    },
+    {
+        "english": "I am afraid",
+        "ibibio": "Ami edi obioma"
+    },
+    {
+        "english": "I am proud",
+        "ibibio": "Ami edi iman"
+    },
+    {
+        "english": "I am grateful",
+        "ibibio": "Ami sosongo"
+    },
+    {
+        "english": "I am tired",
+        "ibibio": "Ami edi obioma"
+    },
+    {
+        "english": "I am excited",
+        "ibibio": "Ami edi mme"
+    },
+    {
+        "english": "I am surprised",
+        "ibibio": "Ami edi ke"
+    },
+    {
+        "english": "I am confused",
+        "ibibio": "Ami edi obioma"
+    },
+    {
+        "english": "A child who is not embraced by the village will burn it down to feel its warmth",
+        "ibibio": "Emi edi mme nte ke ufok"
+    },
+    {
+        "english": "The forest would be silent if no bird sang except the one that sang best",
+        "ibibio": "Ediong edi mme ke nte"
+    },
+    {
+        "english": "Rain does not fall on one roof alone",
+        "ibibio": "Mmong ke ufok nte"
+    },
+    {
+        "english": "Until the lion learns to write every story will glorify the hunter",
+        "ibibio": "Nyin kpom mme edisua"
+    },
+    {
+        "english": "A tree is straightened while it is young",
+        "ibibio": "Ediong dom ke emi"
+    },
+    {
+        "english": "Knowledge is like a garden if it is not cultivated it cannot be harvested",
+        "ibibio": "Edisua edi mme efik"
+    },
+    {
+        "english": "One who tells the stories rules the world",
+        "ibibio": "Nte ke mme ison"
+    },
+    {
+        "english": "Speak softly and carry a big stick",
+        "ibibio": "Ke mme iman dom"
+    },
+    {
+        "english": "Unity is strength division is weakness",
+        "ibibio": "Ke nte edi iman"
+    },
+    {
+        "english": "The elder who speaks truth is worth more than gold",
+        "ibibio": "Nnyin ke mme edi iman"
+    },
+    {
+        "english": "Ekpe is our traditional masquerade",
+        "ibibio": "Ekpe edi mme ibibio"
+    },
+    {
+        "english": "Ekombi is our cultural dance",
+        "ibibio": "Ekombi edi mme ekong"
+    },
+    {
+        "english": "Akwa Ibom is our homeland",
+        "ibibio": "Akwa Ibom edi ison nyin"
+    },
+    {
+        "english": "Ibibio people are hardworking",
+        "ibibio": "Mme ibibio kpom iman"
+    },
+    {
+        "english": "Our language connects us",
+        "ibibio": "Eket nyin ke nyin"
+    },
+    {
+        "english": "The Ibibio culture is rich",
+        "ibibio": "Mme ibibio edi kpem"
+    },
+    {
+        "english": "We celebrate our heritage",
+        "ibibio": "Nyin dom mme ibibio"
+    },
+    {
+        "english": "Traditional medicine heals",
+        "ibibio": "Ogugua ibibio sip ndito"
+    },
+    {
+        "english": "Respect the village square",
+        "ibibio": "Nnam mme ufok"
+    },
+    {
+        "english": "The king leads the people",
+        "ibibio": "Edidem ke mme nte"
+    },
+    {
+        "english": "Artificial intelligence is changing the world",
+        "ibibio": "AI dom ison"
+    },
+    {
+        "english": "Computers help us work faster",
+        "ibibio": "Computer sip nyin kpom"
+    },
+    {
+        "english": "The internet connects people",
+        "ibibio": "Internet ke mme nte"
+    },
+    {
+        "english": "Technology improves our lives",
+        "ibibio": "Technology dom ndito nyin"
+    },
+    {
+        "english": "African languages need AI support",
+        "ibibio": "Mme eket Africa ke AI"
+    },
+    {
+        "english": "Digital tools empower communities",
+        "ibibio": "Mme digital dom ufok"
+    },
+    {
+        "english": "Mobile phones are everywhere",
+        "ibibio": "Fon edi kpukpru"
+    },
+    {
+        "english": "Social media spreads information",
+        "ibibio": "Media dom mme asak"
+    },
+    {
+        "english": "Coding is a valuable skill",
+        "ibibio": "Coding edi edisua mme"
+    },
+    {
+        "english": "The future belongs to technology",
+        "ibibio": "Nnyin edi technology"
+    },
+    {
+        "english": "water",
+        "ibibio": "mmọọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "fire",
+        "ibibio": "ikan̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "earth",
+        "ibibio": "isọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "sun",
+        "ibibio": "utịn",
+        "source": "glosbe"
+    },
+    {
+        "english": "moon",
+        "ibibio": "afiọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "star",
+        "ibibio": "ntafiọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "river",
+        "ibibio": "inyan̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "father",
+        "ibibio": "ababa",
+        "source": "glosbe"
+    },
+    {
+        "english": "mother",
+        "ibibio": "eka",
+        "source": "glosbe"
+    },
+    {
+        "english": "child",
+        "ibibio": "ayịn",
+        "source": "glosbe"
+    },
+    {
+        "english": "man",
+        "ibibio": "adeen",
+        "source": "glosbe"
+    },
+    {
+        "english": "woman",
+        "ibibio": "n̄n̄waan",
+        "source": "glosbe"
+    },
+    {
+        "english": "eat",
+        "ibibio": "dia",
+        "source": "glosbe"
+    },
+    {
+        "english": "drink",
+        "ibibio": "n̄wọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "sleep",
+        "ibibio": "daa",
+        "source": "glosbe"
+    },
+    {
+        "english": "run",
+        "ibibio": "di",
+        "source": "glosbe"
+    },
+    {
+        "english": "walk",
+        "ibibio": "isan̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "good",
+        "ibibio": "eti",
+        "source": "glosbe"
+    },
+    {
+        "english": "bad",
+        "ibibio": "idiọk",
+        "source": "glosbe"
+    },
+    {
+        "english": "big",
+        "ibibio": "akamba",
+        "source": "glosbe"
+    },
+    {
+        "english": "small",
+        "ibibio": "akpara",
+        "source": "glosbe"
+    },
+    {
+        "english": "new",
+        "ibibio": "adufa",
+        "source": "glosbe"
+    },
+    {
+        "english": "old",
+        "ibibio": "n̄kaan",
+        "source": "glosbe"
+    },
+    {
+        "english": "hot",
+        "ibibio": "uye",
+        "source": "glosbe"
+    },
+    {
+        "english": "cold",
+        "ibibio": "adufiip",
+        "source": "glosbe"
+    },
+    {
+        "english": "house",
+        "ibibio": "ufọk",
+        "source": "glosbe"
+    },
+    {
+        "english": "village",
+        "ibibio": "abio",
+        "source": "glosbe"
+    },
+    {
+        "english": "farm",
+        "ibibio": "in̄wan̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "road",
+        "ibibio": "usVn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "king",
+        "ibibio": "adidem",
+        "source": "glosbe"
+    },
+    {
+        "english": "chief",
+        "ibibio": "abọọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "God",
+        "ibibio": "abasi",
+        "source": "glosbe"
+    },
+    {
+        "english": "blessing",
+        "ibibio": "EDIDIONG",
+        "source": "glosbe"
+    },
+    {
+        "english": "spirit",
+        "ibibio": "sịberịt",
+        "source": "glosbe"
+    },
+    {
+        "english": "love",
+        "ibibio": "Ima",
+        "source": "glosbe"
+    },
+    {
+        "english": "peace",
+        "ibibio": "ifuure",
+        "source": "glosbe"
+    },
+    {
+        "english": "war",
+        "ibibio": "ekọn̄",
+        "source": "glosbe"
+    },
+    {
+        "english": "friend",
+        "ibibio": "Ufan",
+        "source": "glosbe"
+    },
+    {
+        "english": "food",
+        "ibibio": "ndidia",
+        "source": "glosbe"
+    },
+    {
+        "english": "fish",
+        "ibibio": "amasa",
+        "source": "glosbe"
+    },
+    {
+        "english": "meat",
+        "ibibio": "Unam",
+        "source": "glosbe"
+    },
+    {
+        "english": "yam",
+        "ibibio": "bia",
+        "source": "glosbe"
+    },
+    {
+        "english": "night",
+        "ibibio": "akon",
+        "source": "glosbe"
+    },
+    {
+        "english": "come",
+        "ibibio": "di",
+        "source": "glosbe"
+    },
+    {
+        "english": "speak",
+        "ibibio": "bo",
+        "source": "glosbe"
+    },
+    {
+        "english": "hear",
+        "ibibio": "kop",
+        "source": "glosbe"
+    },
+    {
+        "english": "heart",
+        "ibibio": "ekpuut",
+        "source": "glosbe"
+    },
+    {
+        "english": "head",
+        "ibibio": "iwuot",
+        "source": "glosbe"
+    },
+    {
+        "english": "eye",
+        "ibibio": "anyen",
+        "source": "glosbe"
+    },
+    {
+        "english": "mouth",
+        "ibibio": "inua",
+        "source": "glosbe"
+    },
+    {
+        "english": "rain",
+        "ibibio": "duọ",
+        "source": "glosbe"
+    },
+    {
+        "english": "seed",
+        "ibibio": "n̄kua",
+        "source": "glosbe"
+    },
+    {
+        "english": "soil",
+        "ibibio": "kpeen",
+        "source": "glosbe"
+    },
+    {
+        "english": "learn",
+        "ibibio": "kpeep",
+        "source": "glosbe"
+    },
+    {
+        "english": "teach",
+        "ibibio": "kpeep",
+        "source": "glosbe"
+    },
+    {
+        "english": "write",
+        "ibibio": "weet",
+        "source": "glosbe"
+    },
+    {
+        "english": "money",
+        "ibibio": "akVk",
+        "source": "glosbe"
+    },
+    {
+        "english": "buy",
+        "ibibio": "deeme",
+        "source": "glosbe"
+    },
+    {
+        "english": "sell",
+        "ibibio": "nyaam",
+        "source": "glosbe"
+    },
+    {
+        "english": "work",
+        "ibibio": "utom",
+        "source": "glosbe"
+    }
+]

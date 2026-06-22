@@ -1,0 +1,930 @@
+[
+  {
+    "segment_id": 1,
+    "start": 0.0,
+    "end": 5.68,
+    "original": "I want to show you how to research anything because research is power.",
+    "translation": "Je veux vous montrer comment rechercher n'importe quoi parce que la recherche est le pouvoir.",
+    "language": "french"
+  },
+  {
+    "segment_id": 2,
+    "start": 5.68,
+    "end": 10.0,
+    "original": "It's also a skill and once you learn how to do it, you can literally teach yourself",
+    "translation": "C'est aussi une compétence et une fois que vous avez appris à le faire, vous pouvez littéralement vous apprendre vous-même",
+    "language": "french"
+  },
+  {
+    "segment_id": 3,
+    "start": 10.0,
+    "end": 11.0,
+    "original": "whatever you want.",
+    "translation": "Tout ce que tu veux.",
+    "language": "french"
+  },
+  {
+    "segment_id": 4,
+    "start": 11.0,
+    "end": 14.76,
+    "original": "And if come to realize lately that most people don't know how to research, they know how",
+    "translation": "Et si vous réalisez récemment que la plupart des gens ne savent pas comment faire des recherches, ils savent comment",
+    "language": "french"
+  },
+  {
+    "segment_id": 5,
+    "start": 14.76,
+    "end": 15.76,
+    "original": "to search.",
+    "translation": "à la recherche.",
+    "language": "french"
+  },
+  {
+    "segment_id": 6,
+    "start": 15.76,
+    "end": 19.88,
+    "original": "And there's actually a very big difference because when you search, you're relying on other",
+    "translation": "Et il y a en fait une très grande différence parce que lorsque vous recherchez, vous comptez sur d'autres",
+    "language": "french"
+  },
+  {
+    "segment_id": 7,
+    "start": 19.88,
+    "end": 22.44,
+    "original": "people to think for you and we don't want that.",
+    "translation": "Des gens qui pensent pour toi et nous ne voulons pas ça.",
+    "language": "french"
+  },
+  {
+    "segment_id": 8,
+    "start": 22.44,
+    "end": 23.84,
+    "original": "We want to do better.",
+    "translation": "On veut faire mieux.",
+    "language": "french"
+  },
+  {
+    "segment_id": 9,
+    "start": 23.84,
+    "end": 26.080000000000002,
+    "original": "So yeah, research has levels to it.",
+    "translation": "Donc oui, la recherche a des niveaux à cela.",
+    "language": "french"
+  },
+  {
+    "segment_id": 10,
+    "start": 26.080000000000002,
+    "end": 29.560000000000002,
+    "original": "My system that I use has four, so I'm going to walk you through them.",
+    "translation": "Mon système que j'utilise a quatre, alors je vais vous les guider.",
+    "language": "french"
+  },
+  {
+    "segment_id": 11,
+    "start": 29.56,
+    "end": 31.68,
+    "original": "One is your surface search.",
+    "translation": "L'une est votre recherche de surface.",
+    "language": "french"
+  },
+  {
+    "segment_id": 12,
+    "start": 31.68,
+    "end": 35.6,
+    "original": "This is where you need to start, but this is also where most people stop.",
+    "translation": "C'est là que vous devez commencer, mais c'est aussi là que la plupart des gens s'arrêtent.",
+    "language": "french"
+  },
+  {
+    "segment_id": 13,
+    "start": 35.6,
+    "end": 41.76,
+    "original": "This is your Google search, the TikTok videos, the YouTube explanations, the AI answers.",
+    "translation": "Voici votre recherche sur Google, les vidéos TikTok, les explications sur YouTube, les réponses de l'IA.",
+    "language": "french"
+  },
+  {
+    "segment_id": 14,
+    "start": 41.76,
+    "end": 46.519999999999996,
+    "original": "And the problem with stopping here is that you're getting compressed conclusions and you're",
+    "translation": "Et le problème avec l'arrêt ici est que vous obtenez des conclusions compressées et vous êtes",
+    "language": "french"
+  },
+  {
+    "segment_id": 15,
+    "start": 46.519999999999996,
+    "end": 48.64,
+    "original": "not understanding how they were built.",
+    "translation": "ne comprenant pas comment ils ont été construits.",
+    "language": "french"
+  },
+  {
+    "segment_id": 16,
+    "start": 48.64,
+    "end": 49.64,
+    "original": "So let's take an example.",
+    "translation": "Prenons un exemple.",
+    "language": "french"
+  },
+  {
+    "segment_id": 17,
+    "start": 49.64,
+    "end": 55.0,
+    "original": "Let's say that you search up what is dark matter and you get results like, well, it",
+    "translation": "Supposons que vous cherchiez ce qu'est la matière noire et vous obtenez des résultats comme,",
+    "language": "french"
+  },
+  {
+    "segment_id": 18,
+    "start": 55.0,
+    "end": 57.6,
+    "original": "makes up 85% of the universe.",
+    "translation": "représente 85% de l'univers.",
+    "language": "french"
+  },
+  {
+    "segment_id": 19,
+    "start": 57.6,
+    "end": 58.76,
+    "original": "We can't see it.",
+    "translation": "On ne peut pas le voir.",
+    "language": "french"
+  },
+  {
+    "segment_id": 20,
+    "start": 58.76,
+    "end": 60.52,
+    "original": "It affects gravity.",
+    "translation": "Ça affecte la gravité.",
+    "language": "french"
+  },
+  {
+    "segment_id": 21,
+    "start": 60.52,
+    "end": 65.12,
+    "original": "You get all these facts, but you still don't understand things like how do we know that",
+    "translation": "Vous avez tous ces faits, mais vous ne comprenez toujours pas des choses comme:",
+    "language": "french"
+  },
+  {
+    "segment_id": 22,
+    "start": 65.12,
+    "end": 71.44,
+    "original": "it exists or what evidence actually supports it or what competing theories to it are?",
+    "translation": "qu'elle existe ou quelles preuves l'appuient réellement ou quelles sont les théories concurrentes ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 23,
+    "start": 71.44,
+    "end": 73.48,
+    "original": "So how do you level one correctly?",
+    "translation": "Alors comment le niveau 1 est-il correct ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 24,
+    "start": 73.48,
+    "end": 77.4,
+    "original": "You use it as orientation for yourself and not education.",
+    "translation": "Vous l'utilisez comme orientation pour vous-même et non comme éducation.",
+    "language": "french"
+  },
+  {
+    "segment_id": 25,
+    "start": 77.4,
+    "end": 83.56,
+    "original": "So your goal at this level should be learning the vocabulary, identifying the key concepts",
+    "translation": "Votre objectif à ce niveau devrait donc être d'apprendre le vocabulaire, d'identifier les concepts clés",
+    "language": "french"
+  },
+  {
+    "segment_id": 26,
+    "start": 83.56,
+    "end": 87.76,
+    "original": "and generating more questions for yourself, figuring out what you still don't know and",
+    "translation": "et générer plus de questions pour vous-même, comprendre ce que vous ne savez toujours pas et",
+    "language": "french"
+  },
+  {
+    "segment_id": 27,
+    "start": 87.76,
+    "end": 89.92,
+    "original": "what you're still really curious about.",
+    "translation": "Ce dont vous êtes toujours curieux.",
+    "language": "french"
+  },
+  {
+    "segment_id": 28,
+    "start": 89.92,
+    "end": 94.8,
+    "original": "You spend 10 to 15 minutes doing the search at level one, like maximum.",
+    "translation": "Vous passez 10 à 15 minutes à faire la recherche au niveau 1, au maximum.",
+    "language": "french"
+  },
+  {
+    "segment_id": 29,
+    "start": 94.8,
+    "end": 99.0,
+    "original": "And then you stop and you ask yourself, what do I still not understand?",
+    "translation": "Et puis tu t'arrêtes et tu te demandes ce que je ne comprends toujours pas ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 30,
+    "start": 99.0,
+    "end": 102.16,
+    "original": "And that question is your doorway to your level two.",
+    "translation": "Et cette question est votre porte vers votre niveau deux.",
+    "language": "french"
+  },
+  {
+    "segment_id": 31,
+    "start": 102.16,
+    "end": 104.76,
+    "original": "Level two is source expansion.",
+    "translation": "Le niveau deux est l'expansion source.",
+    "language": "french"
+  },
+  {
+    "segment_id": 32,
+    "start": 104.76,
+    "end": 107.16,
+    "original": "This is where you begin to really investigate.",
+    "translation": "C'est là que vous commencez vraiment à enquêter.",
+    "language": "french"
+  },
+  {
+    "segment_id": 33,
+    "start": 107.16,
+    "end": 108.76,
+    "original": "So what does this look like?",
+    "translation": "Alors, à quoi ça ressemble ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 34,
+    "start": 108.76,
+    "end": 111.88000000000001,
+    "original": "This is clicking sources and articles.",
+    "translation": "C'est cliquer sur des sources et des articles.",
+    "language": "french"
+  },
+  {
+    "segment_id": 35,
+    "start": 111.88000000000001,
+    "end": 115.52000000000001,
+    "original": "It's reading entire studies instead of just the summary of the study.",
+    "translation": "Il lit des études entières au lieu du résumé de l'étude.",
+    "language": "french"
+  },
+  {
+    "segment_id": 36,
+    "start": 115.52000000000001,
+    "end": 119.12,
+    "original": "It's following links and citations and references.",
+    "translation": "Il suit les liens, les citations et les références.",
+    "language": "french"
+  },
+  {
+    "segment_id": 37,
+    "start": 119.12,
+    "end": 120.52000000000001,
+    "original": "This is where you go from.",
+    "translation": "C'est à partir de là que tu vas.",
+    "language": "french"
+  },
+  {
+    "segment_id": 38,
+    "start": 120.52000000000001,
+    "end": 121.52000000000001,
+    "original": "What is this?",
+    "translation": "C'est quoi, ça ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 39,
+    "start": 121.52000000000001,
+    "end": 123.52000000000001,
+    "original": "To where did this come from?",
+    "translation": "D'où cela vient-il ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 40,
+    "start": 123.52000000000001,
+    "end": 125.68,
+    "original": "Let's go back to the dark matter example.",
+    "translation": "Retournons à l'exemple de la matière noire.",
+    "language": "french"
+  },
+  {
+    "segment_id": 41,
+    "start": 125.68,
+    "end": 128.64000000000001,
+    "original": "Now you're no longer staying on Google or TikTok.",
+    "translation": "Maintenant, vous ne restez plus sur Google ou TikTok.",
+    "language": "french"
+  },
+  {
+    "segment_id": 42,
+    "start": 128.64000000000001,
+    "end": 130.76,
+    "original": "You are opening the NASA page.",
+    "translation": "Vous ouvrez la page de la NASA.",
+    "language": "french"
+  },
+  {
+    "segment_id": 43,
+    "start": 130.76,
+    "end": 132.64000000000001,
+    "original": "You're clicking the cited research.",
+    "translation": "Vous cliquez sur la recherche citée.",
+    "language": "french"
+  },
+  {
+    "segment_id": 44,
+    "start": 132.64000000000001,
+    "end": 138.52,
+    "original": "You're opening up the Galaxy Rotation Curve Study and you're seeing the observations by",
+    "translation": "Vous ouvrez l'étude de la courbe de rotation des galaxies et vous voyez les observations de",
+    "language": "french"
+  },
+  {
+    "segment_id": 45,
+    "start": 138.52,
+    "end": 139.52,
+    "original": "scientists.",
+    "translation": "les scientifiques.",
+    "language": "french"
+  },
+  {
+    "segment_id": 46,
+    "start": 139.52,
+    "end": 144.4,
+    "original": "So this is so important because now you are seeing the evidence and not just the conclusion.",
+    "translation": "Donc c'est si important parce que maintenant vous voyez les preuves et pas seulement la conclusion.",
+    "language": "french"
+  },
+  {
+    "segment_id": 47,
+    "start": 144.4,
+    "end": 148.08,
+    "original": "So how do you level to properly open everything?",
+    "translation": "Alors, comment étalonner pour tout ouvrir correctement ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 48,
+    "start": 148.08,
+    "end": 149.64000000000001,
+    "original": "Don't just read the page and close it down.",
+    "translation": "Ne lisez pas la page et fermez-la.",
+    "language": "french"
+  },
+  {
+    "segment_id": 49,
+    "start": 149.64000000000001,
+    "end": 153.60000000000002,
+    "original": "You should have five to ten tabs open of everything that you're looking at.",
+    "translation": "Vous devriez avoir cinq à dix onglets ouverts de tout ce que vous regardez.",
+    "language": "french"
+  },
+  {
+    "segment_id": 50,
+    "start": 153.60000000000002,
+    "end": 156.4,
+    "original": "You should be following citations backwards at this point.",
+    "translation": "Vous devriez suivre les citations en arrière à ce stade.",
+    "language": "french"
+  },
+  {
+    "segment_id": 51,
+    "start": 156.4,
+    "end": 161.76000000000002,
+    "original": "So going from the article to the study to the original data, all of that is always pretty",
+    "translation": "Donc aller de l'article à l'étude aux données originales, tout cela est toujours beau",
+    "language": "french"
+  },
+  {
+    "segment_id": 52,
+    "start": 161.76000000000002,
+    "end": 162.76000000000002,
+    "original": "much linked.",
+    "translation": "Ils sont très liés.",
+    "language": "french"
+  },
+  {
+    "segment_id": 53,
+    "start": 162.76,
+    "end": 169.76,
+    "original": "You should be prioritizing.edu's.gov's, published papers, any content from the expert in the",
+    "translation": "Vous devriez donner la priorité aux documents publiés par l'édu.gov, à tout contenu de l'expert dans le domaine",
+    "language": "french"
+  },
+  {
+    "segment_id": 54,
+    "start": 169.76,
+    "end": 170.76,
+    "original": "field.",
+    "translation": "le champ.",
+    "language": "french"
+  },
+  {
+    "segment_id": 55,
+    "start": 170.76,
+    "end": 176.0,
+    "original": "And you should be asking yourself, what is this claim that I'm looking up based on?",
+    "translation": "Et vous devriez vous demander, sur quoi est basée cette affirmation que je recherche ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 56,
+    "start": 176.0,
+    "end": 179.79999999999998,
+    "original": "Because if you can't answer that, you are probably still back at level one.",
+    "translation": "Parce que si vous ne pouvez pas répondre, vous êtes probablement encore au niveau un.",
+    "language": "french"
+  },
+  {
+    "segment_id": 57,
+    "start": 179.79999999999998,
+    "end": 182.95999999999998,
+    "original": "I get into level three, which is pattern recognition.",
+    "translation": "Je passe au niveau trois, qui est la reconnaissance des modèles.",
+    "language": "french"
+  },
+  {
+    "segment_id": 58,
+    "start": 182.95999999999998,
+    "end": 187.51999999999998,
+    "original": "And I think that this is the level where the truth really starts to show up because",
+    "translation": "Et je pense que c'est à ce niveau que la vérité commence vraiment à apparaître parce que",
+    "language": "french"
+  },
+  {
+    "segment_id": 59,
+    "start": 187.52,
+    "end": 193.04000000000002,
+    "original": "at this level, your main focus is comparing multiple sources and you're paying attention",
+    "translation": "à ce niveau, votre objectif principal est de comparer plusieurs sources et vous faites attention",
+    "language": "french"
+  },
+  {
+    "segment_id": 60,
+    "start": 193.04000000000002,
+    "end": 196.0,
+    "original": "to agreements and contradictions among them.",
+    "translation": "à des accords et des contradictions entre eux.",
+    "language": "french"
+  },
+  {
+    "segment_id": 61,
+    "start": 196.0,
+    "end": 199.88,
+    "original": "You are identifying repeated ideas that you see.",
+    "translation": "Vous identifiez les idées répétées que vous voyez.",
+    "language": "french"
+  },
+  {
+    "segment_id": 62,
+    "start": 199.88,
+    "end": 205.20000000000002,
+    "original": "You're really looking for things that show up repeatedly across those sources, whether",
+    "translation": "Vous cherchez vraiment des choses qui apparaissent à plusieurs reprises dans ces sources,",
+    "language": "french"
+  },
+  {
+    "segment_id": 63,
+    "start": 205.20000000000002,
+    "end": 211.48000000000002,
+    "original": "they are numbers or questions or ideas or arguments because it shows that they are important.",
+    "translation": "Ce sont des chiffres ou des questions ou des idées ou des arguments parce que cela montre qu'ils sont importants.",
+    "language": "french"
+  },
+  {
+    "segment_id": 64,
+    "start": 211.48000000000002,
+    "end": 215.16000000000003,
+    "original": "Let's say that you read six different sources on dark matter.",
+    "translation": "Supposons que vous lisiez six sources différentes sur la matière noire.",
+    "language": "french"
+  },
+  {
+    "segment_id": 65,
+    "start": 215.16,
+    "end": 219.35999999999999,
+    "original": "And six of them said that Galaxy rotation does not match visible mass and one of them",
+    "translation": "Et six d'entre eux ont dit que la rotation des galaxies ne correspond pas à la masse visible et l'un d'eux",
+    "language": "french"
+  },
+  {
+    "segment_id": 66,
+    "start": 219.35999999999999,
+    "end": 221.8,
+    "original": "said that maybe gravity laws are wrong.",
+    "translation": "dit que les lois de la gravité sont peut-être fausses.",
+    "language": "french"
+  },
+  {
+    "segment_id": 67,
+    "start": 221.8,
+    "end": 226.28,
+    "original": "So now you really see the consensus happening within the topic itself.",
+    "translation": "Donc maintenant vous voyez vraiment le consensus se produire dans le sujet lui-même.",
+    "language": "french"
+  },
+  {
+    "segment_id": 68,
+    "start": 226.28,
+    "end": 231.24,
+    "original": "You see the outliers and you see the debate that exists and you're starting to get a real",
+    "translation": "Vous voyez les avancées et vous voyez le débat qui existe et vous commencez à obtenir un réel",
+    "language": "french"
+  },
+  {
+    "segment_id": 69,
+    "start": 231.24,
+    "end": 233.28,
+    "original": "understanding of what you're learning about.",
+    "translation": "la compréhension de ce que vous apprenez.",
+    "language": "french"
+  },
+  {
+    "segment_id": 70,
+    "start": 233.28,
+    "end": 236.72,
+    "original": "At any level, three properly, you look for overlap.",
+    "translation": "À n'importe quel niveau, trois correctement, vous cherchez un chevauchement.",
+    "language": "french"
+  },
+  {
+    "segment_id": 71,
+    "start": 236.72,
+    "end": 239.0,
+    "original": "So what do most of the sources agree on?",
+    "translation": "Sur quoi la plupart des sources sont- elles d'accord ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 72,
+    "start": 239.0,
+    "end": 241.64,
+    "original": "You also should be noticing the disagreement.",
+    "translation": "Vous devriez aussi remarquer le désaccord.",
+    "language": "french"
+  },
+  {
+    "segment_id": 73,
+    "start": 241.64,
+    "end": 245.72,
+    "original": "So figure out where the experts diverge on that topic.",
+    "translation": "Alors découvrez où les experts divergent sur ce sujet.",
+    "language": "french"
+  },
+  {
+    "segment_id": 74,
+    "start": 245.72,
+    "end": 247.92,
+    "original": "You should be ranking the evidence that you find.",
+    "translation": "Vous devriez classer les preuves que vous trouvez.",
+    "language": "french"
+  },
+  {
+    "segment_id": 75,
+    "start": 247.92,
+    "end": 251.88,
+    "original": "You can separate it into strong evidence versus speculation.",
+    "translation": "Vous pouvez le séparer en preuves solides contre des spéculations.",
+    "language": "french"
+  },
+  {
+    "segment_id": 76,
+    "start": 251.88,
+    "end": 257.03999999999996,
+    "original": "You can also create like three mental buckets or write them down if you want to obviously.",
+    "translation": "Vous pouvez aussi créer trois seaux mentaux ou les écrire si vous le voulez évidemment.",
+    "language": "french"
+  },
+  {
+    "segment_id": 77,
+    "start": 257.03999999999996,
+    "end": 262.03999999999996,
+    "original": "But one is information you find that's consistent across all the sources.",
+    "translation": "Mais l'une est l'information que vous trouvez qui est cohérente dans toutes les sources.",
+    "language": "french"
+  },
+  {
+    "segment_id": 78,
+    "start": 262.03999999999996,
+    "end": 267.68,
+    "original": "Another one for information that is debated and another one for information that is uncertain.",
+    "translation": "Une autre pour des informations qui sont discutées et une autre pour des informations incertaines.",
+    "language": "french"
+  },
+  {
+    "segment_id": 79,
+    "start": 267.68,
+    "end": 272.02,
+    "original": "And by doing that, you are actually teaching yourself and building your own intellectual",
+    "translation": "Et en faisant cela, vous vous enseignez vous-même et construisez votre propre intellectuel",
+    "language": "french"
+  },
+  {
+    "segment_id": 80,
+    "start": 272.02,
+    "end": 273.72,
+    "original": "judgment on the topic.",
+    "translation": "le jugement sur le sujet.",
+    "language": "french"
+  },
+  {
+    "segment_id": 81,
+    "start": 273.72,
+    "end": 278.96,
+    "original": "A level for the depth and framework level because this is where you stop learning information",
+    "translation": "Un niveau pour le niveau de profondeur et de cadre parce que c'est là que vous arrêtez d'apprendre l'information",
+    "language": "french"
+  },
+  {
+    "segment_id": 82,
+    "start": 278.96,
+    "end": 281.8,
+    "original": "and you start thinking in systems.",
+    "translation": "et vous commencez à penser en systèmes.",
+    "language": "french"
+  },
+  {
+    "segment_id": 83,
+    "start": 281.8,
+    "end": 283.52,
+    "original": "You are asking better questions.",
+    "translation": "Vous posez de meilleures questions.",
+    "language": "french"
+  },
+  {
+    "segment_id": 84,
+    "start": 283.52,
+    "end": 288.4,
+    "original": "You are building mental models of the topic that you're researching and you're starting",
+    "translation": "Vous construisez des modèles mentaux du sujet que vous recherchez et vous commencez",
+    "language": "french"
+  },
+  {
+    "segment_id": 85,
+    "start": 288.4,
+    "end": 292.8,
+    "original": "to connect ideas across different fields of research.",
+    "translation": "connecter des idées entre différents domaines de recherche.",
+    "language": "french"
+  },
+  {
+    "segment_id": 86,
+    "start": 292.8,
+    "end": 298.0,
+    "original": "So you're really looking for the structure behind the topic of whatever you're researching.",
+    "translation": "Donc vous cherchez vraiment la structure derrière le sujet de ce que vous recherchez.",
+    "language": "french"
+  },
+  {
+    "segment_id": 87,
+    "start": 298.0,
+    "end": 302.68,
+    "original": "Instead of asking what is dark matter, we're asking deeper questions.",
+    "translation": "Au lieu de demander ce qu'est la matière noire, nous posons des questions plus profondes.",
+    "language": "french"
+  },
+  {
+    "segment_id": 88,
+    "start": 302.68,
+    "end": 308.0,
+    "original": "We're asking things like why does gravity behave this way or what assumptions are built",
+    "translation": "Nous demandons des choses comme pourquoi la gravité se comporte ainsi ou quelles hypothèses sont construites",
+    "language": "french"
+  },
+  {
+    "segment_id": 89,
+    "start": 308.0,
+    "end": 313.48,
+    "original": "into our existing model of dark matter or what would have to be true for all of this",
+    "translation": "dans notre modèle existant de matière noire ou ce qui devrait être vrai pour tout cela",
+    "language": "french"
+  },
+  {
+    "segment_id": 90,
+    "start": 313.48,
+    "end": 315.48,
+    "original": "to be wrong.",
+    "translation": "Je me trompe.",
+    "language": "french"
+  },
+  {
+    "segment_id": 91,
+    "start": 315.48,
+    "end": 320.36,
+    "original": "You are really training yourself to think more deeply and to ask better questions, which",
+    "translation": "Vous vous entraînez vraiment à réfléchir plus profondément et à poser de meilleures questions,",
+    "language": "french"
+  },
+  {
+    "segment_id": 92,
+    "start": 320.36,
+    "end": 322.36,
+    "original": "is very important in research.",
+    "translation": "est très important dans la recherche.",
+    "language": "french"
+  },
+  {
+    "segment_id": 93,
+    "start": 322.36,
+    "end": 327.88,
+    "original": "The level we are asking second order questions, we are not just asking what, but why and",
+    "translation": "Le niveau auquel nous posons des questions de deuxième ordre, nous ne demandons pas seulement quoi, mais pourquoi et pourquoi.",
+    "language": "french"
+  },
+  {
+    "segment_id": 94,
+    "start": 327.88,
+    "end": 331.16,
+    "original": "what if we are building on our mental models.",
+    "translation": "et si nous construisons sur nos modèles mentaux.",
+    "language": "french"
+  },
+  {
+    "segment_id": 95,
+    "start": 331.16,
+    "end": 334.12,
+    "original": "So take a piece of paper and draw it out in front of you, right?",
+    "translation": "Alors prends un morceau de papier et dessine-le devant toi, non ?",
+    "language": "french"
+  },
+  {
+    "segment_id": 96,
+    "start": 334.12,
+    "end": 337.12,
+    "original": "Dark matter, it's a placeholder for missing math.",
+    "translation": "La matière noire, c'est une place pour les mathématiques manquantes.",
+    "language": "french"
+  },
+  {
+    "segment_id": 97,
+    "start": 337.12,
+    "end": 339.0,
+    "original": "It's inferred from gravitational effects.",
+    "translation": "Il est déduit des effets gravitationnels.",
+    "language": "french"
+  },
+  {
+    "segment_id": 98,
+    "start": 339.0,
+    "end": 341.2,
+    "original": "It's not directly observable.",
+    "translation": "Ce n'est pas directement observable.",
+    "language": "french"
+  },
+  {
+    "segment_id": 99,
+    "start": 341.2,
+    "end": 344.92,
+    "original": "Draw it out so you can see the map of it and start connecting it out.",
+    "translation": "Dessinez-le pour que vous puissiez voir la carte et commencer à le connecter.",
+    "language": "french"
+  },
+  {
+    "segment_id": 100,
+    "start": 344.92,
+    "end": 346.08000000000004,
+    "original": "Dark matter is physics.",
+    "translation": "La matière noire est la physique.",
+    "language": "french"
+  },
+  {
+    "segment_id": 101,
+    "start": 346.08000000000004,
+    "end": 347.24,
+    "original": "It's cosmology.",
+    "translation": "C'est la cosmologie.",
+    "language": "french"
+  },
+  {
+    "segment_id": 102,
+    "start": 347.24,
+    "end": 349.28000000000003,
+    "original": "It's philosophy of science.",
+    "translation": "C'est la philosophie de la science.",
+    "language": "french"
+  },
+  {
+    "segment_id": 103,
+    "start": 349.28,
+    "end": 354.96,
+    "original": "You can take the information you have and draw it out into what is evidence, what is uncertain,",
+    "translation": "Vous pouvez prendre les informations que vous avez et les tracer dans ce qui est la preuve, ce qui est incertain,",
+    "language": "french"
+  },
+  {
+    "segment_id": 104,
+    "start": 354.96,
+    "end": 358.55999999999995,
+    "original": "what about the topic is the limitations of our knowledge.",
+    "translation": "ce qui concerne le sujet est les limites de notre connaissance.",
+    "language": "french"
+  },
+  {
+    "segment_id": 105,
+    "start": 358.55999999999995,
+    "end": 362.59999999999997,
+    "original": "When you start to draw it out in front of you and build a model that you start to see",
+    "translation": "Quand vous commencez à le dessiner devant vous et construire un modèle que vous commencez à voir",
+    "language": "french"
+  },
+  {
+    "segment_id": 106,
+    "start": 362.59999999999997,
+    "end": 366.32,
+    "original": "all of the connections and you start to see all the missing gaps.",
+    "translation": "toutes les connexions et vous commencez à voir tous les espaces manquants.",
+    "language": "french"
+  },
+  {
+    "segment_id": 107,
+    "start": 366.32,
+    "end": 370.15999999999997,
+    "original": "And it is crazy how much that really helps your understanding of it.",
+    "translation": "Et c'est fou à quel point cela aide vraiment votre compréhension de cela.",
+    "language": "french"
+  },
+  {
+    "segment_id": 108,
+    "start": 370.15999999999997,
+    "end": 373.59999999999997,
+    "original": "The thing about research is that it is not linear, it is a loop.",
+    "translation": "La chose avec la recherche est qu'elle n'est pas linéaire, c'est une boucle.",
+    "language": "french"
+  },
+  {
+    "segment_id": 109,
+    "start": 373.59999999999997,
+    "end": 377.71999999999997,
+    "original": "So you search and then you expand and then you compare and then you build those mental",
+    "translation": "Alors vous cherchez, puis vous vous élargissez, puis vous comparez, puis vous construisez ces mentalités.",
+    "language": "french"
+  },
+  {
+    "segment_id": 110,
+    "start": 377.72,
+    "end": 378.72,
+    "original": "models.",
+    "translation": "les modèles.",
+    "language": "french"
+  },
+  {
+    "segment_id": 111,
+    "start": 378.72,
+    "end": 381.24,
+    "original": "And from those mental models you get better questions.",
+    "translation": "Et à partir de ces modèles mentaux, vous obtenez de meilleures questions.",
+    "language": "french"
+  },
+  {
+    "segment_id": 112,
+    "start": 381.24,
+    "end": 385.64000000000004,
+    "original": "And then you repeat it all over again with the better questions you search and you expand",
+    "translation": "Et puis vous répétez tout à nouveau avec les meilleures questions que vous recherchez et vous élargissez",
+    "language": "french"
+  },
+  {
+    "segment_id": 113,
+    "start": 385.64000000000004,
+    "end": 388.68,
+    "original": "again and you compare and you build more models.",
+    "translation": "Encore une fois et vous comparez et vous construisez plus de modèles.",
+    "language": "french"
+  },
+  {
+    "segment_id": 114,
+    "start": 388.68,
+    "end": 391.72,
+    "original": "And that is how you learn how to think for yourself.",
+    "translation": "Et c'est ainsi que vous apprenez à penser par vous-même.",
+    "language": "french"
+  },
+  {
+    "segment_id": 115,
+    "start": 391.72,
+    "end": 394.68,
+    "original": "That is how you truly begin to understand something.",
+    "translation": "C'est ainsi que vous commencez vraiment à comprendre quelque chose.",
+    "language": "french"
+  },
+  {
+    "segment_id": 116,
+    "start": 394.68,
+    "end": 399.0,
+    "original": "And that is how following your curiosity becomes very, very powerful.",
+    "translation": "Et c'est ainsi que suivre votre curiosité devient très, très puissant.",
+    "language": "french"
+  }
+]

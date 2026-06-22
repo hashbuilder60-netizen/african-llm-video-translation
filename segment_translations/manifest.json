@@ -1,0 +1,30 @@
+{
+  "yoruba": {
+    "language_name": "Yoruba",
+    "segment_count": 5,
+    "json": "segment_translations\\yoruba_segments.json",
+    "srt": "segment_translations\\yoruba.srt",
+    "bilingual_srt": "segment_translations\\yoruba_bilingual.srt"
+  },
+  "hausa": {
+    "language_name": "Hausa",
+    "segment_count": 5,
+    "json": "segment_translations\\hausa_segments.json",
+    "srt": "segment_translations\\hausa.srt",
+    "bilingual_srt": "segment_translations\\hausa_bilingual.srt"
+  },
+  "igbo": {
+    "language_name": "Igbo",
+    "segment_count": 5,
+    "json": "segment_translations\\igbo_segments.json",
+    "srt": "segment_translations\\igbo.srt",
+    "bilingual_srt": "segment_translations\\igbo_bilingual.srt"
+  },
+  "ibibio": {
+    "language_name": "Ibibio",
+    "segment_count": 5,
+    "json": "segment_translations\\ibibio_segments.json",
+    "srt": "segment_translations\\ibibio.srt",
+    "bilingual_srt": "segment_translations\\ibibio_bilingual.srt"
+  }
+}

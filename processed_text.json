@@ -1,0 +1,29 @@
+{
+    "original_transcript": " We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in a car. Both officers are now being checked out at hospital.",
+    "cleaned_text": "We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in a car. Both officers are now being checked out at hospital.",
+    "total_sentences": 2,
+    "all_sentences": [
+        "We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in",
+        "a car. Both officers are now being checked out at hospital."
+    ],
+    "processed_sample": [
+        {
+            "sentence_id": 0,
+            "text": "We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in",
+            "token_count": 68,
+            "embedding_shape": [
+                1,
+                768
+            ]
+        },
+        {
+            "sentence_id": 1,
+            "text": "a car. Both officers are now being checked out at hospital.",
+            "token_count": 17,
+            "embedding_shape": [
+                1,
+                768
+            ]
+        }
+    ]
+}

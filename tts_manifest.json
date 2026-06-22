@@ -1,0 +1,28 @@
+{
+  "audio_files": {
+    "ibibio": "tts_output\\ibibio_output.wav",
+    "demo_greeting": "tts_output\\demo_phrases\\greeting.wav",
+    "demo_thank_you": "tts_output\\demo_phrases\\thank_you.wav",
+    "demo_love": "tts_output\\demo_phrases\\love.wav",
+    "demo_education_important": "tts_output\\demo_phrases\\education_important.wav",
+    "demo_we_are_one": "tts_output\\demo_phrases\\we_are_one.wav",
+    "demo_our_language_beautiful": "tts_output\\demo_phrases\\our_language_beautiful.wav",
+    "demo_god_bless": "tts_output\\demo_phrases\\god_bless.wav",
+    "demo_health_wealth": "tts_output\\demo_phrases\\health_wealth.wav"
+  },
+  "subtitle_languages": [
+    "yoruba",
+    "hausa",
+    "igbo",
+    "ibibio"
+  ],
+  "tts_engine": "ibibio_phoneme_v2",
+  "sample_rate": 22050,
+  "features": [
+    "Two-formant vowel synthesis",
+    "Tone contour modelling",
+    "Coarticulation smoothing",
+    "Whisper-synced subtitles",
+    "SRT and WebVTT export"
+  ]
+}

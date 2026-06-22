@@ -1,0 +1,3068 @@
+[
+  {
+    "english": "Good morning",
+    "ibibio": "Ememe nnyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Good afternoon",
+    "ibibio": "Ememe adie",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Good evening",
+    "ibibio": "Ememe idiong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Good night",
+    "ibibio": "Kpukpru nnyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "How are you",
+    "ibibio": "Afo ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am fine",
+    "ibibio": "Ami adi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Thank you",
+    "ibibio": "Sosongo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Thank you very much",
+    "ibibio": "Sosongo ntre",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "You are welcome",
+    "ibibio": "Emem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Please",
+    "ibibio": "Ntre",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Sorry",
+    "ibibio": "Ndo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Goodbye",
+    "ibibio": "Ke kyene",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "See you tomorrow",
+    "ibibio": "Nyin idem ufok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "What is your name",
+    "ibibio": "Ama adi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My name is",
+    "ibibio": "Ama ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Where are you from",
+    "ibibio": "Fo fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am from Nigeria",
+    "ibibio": "Ami edi Nigeria",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I love you",
+    "ibibio": "Ami okut fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "God bless you",
+    "ibibio": "Abasi mbot fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Praise God",
+    "ibibio": "Enyene Abasi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Education is important",
+    "ibibio": "Edisua edi mme ekpuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am a student",
+    "ibibio": "Ami edi student",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am going to school",
+    "ibibio": "Ami edi ke school",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Learning is good",
+    "ibibio": "Edisua edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Read your book",
+    "ibibio": "Sibi ibuot fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Write in your notebook",
+    "ibibio": "Doko ke ibuot fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The teacher is here",
+    "ibibio": "Mme ukpong edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I understand the lesson",
+    "ibibio": "Ami kpeme edisua",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Ask questions in class",
+    "ibibio": "Bere asak ke class",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Study hard every day",
+    "ibibio": "Sip edisua kpukpru",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am sick",
+    "ibibio": "Ami edi obioma",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Go to the hospital",
+    "ibibio": "Ke ke hospital",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Take your medicine",
+    "ibibio": "Gop ogugua fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Drink clean water",
+    "ibibio": "Nnom mmong mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Wash your hands",
+    "ibibio": "Fo ibokido fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "See the doctor",
+    "ibibio": "Ke ke dokita",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I have a headache",
+    "ibibio": "Ami edi obioma ke itie",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Rest and get well",
+    "ibibio": "Kpom nsisip",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Health is wealth",
+    "ibibio": "Ndito edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Eat good food",
+    "ibibio": "Di idiok mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My father",
+    "ibibio": "Ete ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My mother",
+    "ibibio": "Eka ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My brother",
+    "ibibio": "Adiaha ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My sister",
+    "ibibio": "Adiaha ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My family",
+    "ibibio": "Ufok ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "My children",
+    "ibibio": "Mme emi ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The family is together",
+    "ibibio": "Ufok edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I love my family",
+    "ibibio": "Ami okut ufok ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "We eat together",
+    "ibibio": "Nyin di ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Family is everything",
+    "ibibio": "Ufok edi ekpuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The farm is big",
+    "ibibio": "Mme efik edi kpem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Plant the seeds",
+    "ibibio": "Dom mme mbuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Harvest the crops",
+    "ibibio": "Gop mme eben",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The food is ready",
+    "ibibio": "Idiok edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am hungry",
+    "ibibio": "Ami edi obioma idiok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The market is open",
+    "ibibio": "Mbok edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Buy food at the market",
+    "ibibio": "To idiok ke mbok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The rain will come",
+    "ibibio": "Mmong edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Water the plants",
+    "ibibio": "Dom mmong ke mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The harvest is good",
+    "ibibio": "Eben edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Our community is strong",
+    "ibibio": "Mme ufok nyin edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Work together",
+    "ibibio": "Kpom nte ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Help each other",
+    "ibibio": "Sip mme nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Respect your elders",
+    "ibibio": "Nnam mme nnyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Peace in our land",
+    "ibibio": "Emem ke ison nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "We are one people",
+    "ibibio": "Nyin edi nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Unity is strength",
+    "ibibio": "Ke nte edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Protect our culture",
+    "ibibio": "Kpom mme ibibio",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Our language is beautiful",
+    "ibibio": "Eket nyin edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Speak Ibibio proudly",
+    "ibibio": "Ke Ibibio ke iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Use the computer",
+    "ibibio": "Gop computer",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The internet is useful",
+    "ibibio": "Internet edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Send a message",
+    "ibibio": "Dom mme asak",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Call on the phone",
+    "ibibio": "Ke ke fon",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Technology helps us",
+    "ibibio": "Technology sip nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Learn new skills",
+    "ibibio": "Sip mme edisua",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The future is bright",
+    "ibibio": "Nnyin edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Young people are important",
+    "ibibio": "Mme emi edi ekpuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Build a better Nigeria",
+    "ibibio": "Dom Nigeria mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Africa is rising",
+    "ibibio": "Africa edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "God is great",
+    "ibibio": "Abasi edi kpem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Pray every day",
+    "ibibio": "Dom asak kpukpru",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The church is near",
+    "ibibio": "Chos edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Sing praises to God",
+    "ibibio": "Dom ekong ke Abasi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Trust in God",
+    "ibibio": "Kpeme Abasi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "God loves us all",
+    "ibibio": "Abasi okut nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Our ancestors watch over us",
+    "ibibio": "Mme nnyin ke nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Keep our traditions",
+    "ibibio": "Kpom mme ibibio",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Dance and celebrate",
+    "ibibio": "Dom mme ekong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Culture is identity",
+    "ibibio": "Ibibio edi ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "One",
+    "ibibio": "Nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Two",
+    "ibibio": "Iба",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Three",
+    "ibibio": "Ita",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Four",
+    "ibibio": "Inan",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Five",
+    "ibibio": "Itiok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Today",
+    "ibibio": "Adie",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Tomorrow",
+    "ibibio": "Ufok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Yesterday",
+    "ibibio": "Ndidi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Morning",
+    "ibibio": "Ememe",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Evening",
+    "ibibio": "Idiong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "White",
+    "ibibio": "Nfien",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Black",
+    "ibibio": "Idiong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Red",
+    "ibibio": "Mfon",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Blue",
+    "ibibio": "Mmong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Green",
+    "ibibio": "Efik",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Yellow",
+    "ibibio": "Mfon uto",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I go",
+    "ibibio": "Ami ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I come",
+    "ibibio": "Ami bi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I eat",
+    "ibibio": "Ami di",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I drink",
+    "ibibio": "Ami nnom",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I sleep",
+    "ibibio": "Ami kpom",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I work",
+    "ibibio": "Ami kpom",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I speak",
+    "ibibio": "Ami ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I hear",
+    "ibibio": "Ami kpeme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I see",
+    "ibibio": "Ami ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I know",
+    "ibibio": "Ami kpeme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "What is this",
+    "ibibio": "Ama edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Where is it",
+    "ibibio": "Fo edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "When will you come",
+    "ibibio": "Fo bi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "How much is it",
+    "ibibio": "Ama edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Why did you do that",
+    "ibibio": "Fo kpom ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Who are you",
+    "ibibio": "Ama fo edi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Which one do you want",
+    "ibibio": "Ama fo okut",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Can you help me",
+    "ibibio": "Fo sip ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Do you understand",
+    "ibibio": "Fo kpeme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Are you ready",
+    "ibibio": "Fo edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Vote for your leader",
+    "ibibio": "Dom mme nnyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Pay your taxes",
+    "ibibio": "Dom mme iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Obey the law",
+    "ibibio": "Kpom mme edidem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Nigeria is our country",
+    "ibibio": "Nigeria edi ison nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "We are all citizens",
+    "ibibio": "Nyin edi mme nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The government serves us",
+    "ibibio": "Edidem sip nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Justice for all",
+    "ibibio": "Emem ke nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Equal rights for everyone",
+    "ibibio": "Mme iman ke nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Corruption is wrong",
+    "ibibio": "Obioma edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Build our nation together",
+    "ibibio": "Dom ison nyin ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Plant trees everywhere",
+    "ibibio": "Dom mme ediong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Keep our environment clean",
+    "ibibio": "Kpom ison nyin mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Do not pollute the river",
+    "ibibio": "Kpom mmong mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Protect the forest",
+    "ibibio": "Kpom mme ediong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Climate change affects us",
+    "ibibio": "Ison ke nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Save water every day",
+    "ibibio": "Kpom mmong kpukpru",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Recycle your waste",
+    "ibibio": "Dom mme obioma",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The earth is our home",
+    "ibibio": "Ison edi ufok nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Clean air is important",
+    "ibibio": "Ison edi ekpuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Nature is beautiful",
+    "ibibio": "Ison edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Football is popular in Nigeria",
+    "ibibio": "Football edi mme ke Nigeria",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Exercise every morning",
+    "ibibio": "Kpom edisua ememe",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Swimming is good for health",
+    "ibibio": "Mmong edi mme ndito",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Play with your friends",
+    "ibibio": "Dom ke mme nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Win the competition",
+    "ibibio": "Dom mme ekong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Sports build character",
+    "ibibio": "Ekong dom ami",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Run fast and win",
+    "ibibio": "Ke iman dom",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Team work is important",
+    "ibibio": "Ke nte edi ekpuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Practice every day",
+    "ibibio": "Kpom edisua kpukpru",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Never give up",
+    "ibibio": "Kpom mme nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Buy and sell goods",
+    "ibibio": "To dom mme iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Save your money",
+    "ibibio": "Kpom iman fo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Start a business",
+    "ibibio": "Dom mme iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Hard work pays",
+    "ibibio": "Kpom iman edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Invest in the future",
+    "ibibio": "Dom iman ke nnyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The economy is growing",
+    "ibibio": "Iman edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Create jobs for youth",
+    "ibibio": "Dom mme kpom ke emi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Trade with your neighbors",
+    "ibibio": "Dom mme iman ke nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Financial freedom matters",
+    "ibibio": "Iman edi ekpuk",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Build wealth gradually",
+    "ibibio": "Dom iman kpukpru",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The road is long",
+    "ibibio": "Ison edi kpem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Drive carefully",
+    "ibibio": "Ke mme iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The bus is coming",
+    "ibibio": "Mme ke bi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "We travel by road",
+    "ibibio": "Nyin ke ke ison",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The journey is safe",
+    "ibibio": "Ke edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Arrive on time",
+    "ibibio": "Bi ke iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The bridge is strong",
+    "ibibio": "Mme ison edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Cross the river safely",
+    "ibibio": "Ke mmong mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The airport is far",
+    "ibibio": "Mme ke edi kpem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Take the right road",
+    "ibibio": "Ke ison mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "It is raining",
+    "ibibio": "Mmong edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The sun is shining",
+    "ibibio": "Akai edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "It is very hot today",
+    "ibibio": "Ison edi iman adie",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The weather is cool",
+    "ibibio": "Ison edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Prepare for the rain",
+    "ibibio": "Dom mme mmong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The dry season is here",
+    "ibibio": "Ison edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Flood has destroyed farms",
+    "ibibio": "Mmong dom mme efik",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The harmattan is coming",
+    "ibibio": "Ison bi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Stay indoors during storms",
+    "ibibio": "Ke ufok ke ison",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The sky is clear today",
+    "ibibio": "Ison edi mme adie",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am happy",
+    "ibibio": "Ami edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am sad",
+    "ibibio": "Ami edi obioma",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am angry",
+    "ibibio": "Ami edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am afraid",
+    "ibibio": "Ami edi obioma",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am proud",
+    "ibibio": "Ami edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am grateful",
+    "ibibio": "Ami sosongo",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am tired",
+    "ibibio": "Ami edi obioma",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am excited",
+    "ibibio": "Ami edi mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am surprised",
+    "ibibio": "Ami edi ke",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "I am confused",
+    "ibibio": "Ami edi obioma",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "A child who is not embraced by the village will burn it down to feel its warmth",
+    "ibibio": "Emi edi mme nte ke ufok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The forest would be silent if no bird sang except the one that sang best",
+    "ibibio": "Ediong edi mme ke nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Rain does not fall on one roof alone",
+    "ibibio": "Mmong ke ufok nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Until the lion learns to write every story will glorify the hunter",
+    "ibibio": "Nyin kpom mme edisua",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "A tree is straightened while it is young",
+    "ibibio": "Ediong dom ke emi",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Knowledge is like a garden if it is not cultivated it cannot be harvested",
+    "ibibio": "Edisua edi mme efik",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "One who tells the stories rules the world",
+    "ibibio": "Nte ke mme ison",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Speak softly and carry a big stick",
+    "ibibio": "Ke mme iman dom",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Unity is strength division is weakness",
+    "ibibio": "Ke nte edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The elder who speaks truth is worth more than gold",
+    "ibibio": "Nnyin ke mme edi iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Ekpe is our traditional masquerade",
+    "ibibio": "Ekpe edi mme ibibio",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Ekombi is our cultural dance",
+    "ibibio": "Ekombi edi mme ekong",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Akwa Ibom is our homeland",
+    "ibibio": "Akwa Ibom edi ison nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Ibibio people are hardworking",
+    "ibibio": "Mme ibibio kpom iman",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Our language connects us",
+    "ibibio": "Eket nyin ke nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The Ibibio culture is rich",
+    "ibibio": "Mme ibibio edi kpem",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "We celebrate our heritage",
+    "ibibio": "Nyin dom mme ibibio",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Traditional medicine heals",
+    "ibibio": "Ogugua ibibio sip ndito",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Respect the village square",
+    "ibibio": "Nnam mme ufok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The king leads the people",
+    "ibibio": "Edidem ke mme nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Artificial intelligence is changing the world",
+    "ibibio": "AI dom ison",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Computers help us work faster",
+    "ibibio": "Computer sip nyin kpom",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The internet connects people",
+    "ibibio": "Internet ke mme nte",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Technology improves our lives",
+    "ibibio": "Technology dom ndito nyin",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "African languages need AI support",
+    "ibibio": "Mme eket Africa ke AI",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Digital tools empower communities",
+    "ibibio": "Mme digital dom ufok",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Mobile phones are everywhere",
+    "ibibio": "Fon edi kpukpru",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Social media spreads information",
+    "ibibio": "Media dom mme asak",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "Coding is a valuable skill",
+    "ibibio": "Coding edi edisua mme",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "The future belongs to technology",
+    "ibibio": "Nnyin edi technology",
+    "source": "original",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "water",
+    "ibibio": "mmọọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "fire",
+    "ibibio": "ikan̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "earth",
+    "ibibio": "isọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "sun",
+    "ibibio": "utịn",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "moon",
+    "ibibio": "afiọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "star",
+    "ibibio": "ntafiọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "river",
+    "ibibio": "inyan̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "father",
+    "ibibio": "ababa",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "mother",
+    "ibibio": "eka",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "child",
+    "ibibio": "ayịn",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "man",
+    "ibibio": "adeen",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "woman",
+    "ibibio": "n̄n̄waan",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "eat",
+    "ibibio": "dia",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "drink",
+    "ibibio": "n̄wọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "sleep",
+    "ibibio": "daa",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "run",
+    "ibibio": "di",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "walk",
+    "ibibio": "isan̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "good",
+    "ibibio": "eti",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "bad",
+    "ibibio": "idiọk",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "big",
+    "ibibio": "akamba",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "small",
+    "ibibio": "akpara",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "new",
+    "ibibio": "adufa",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "old",
+    "ibibio": "n̄kaan",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "hot",
+    "ibibio": "uye",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "cold",
+    "ibibio": "adufiip",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "house",
+    "ibibio": "ufọk",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "village",
+    "ibibio": "abio",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "farm",
+    "ibibio": "in̄wan̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "road",
+    "ibibio": "usVn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "king",
+    "ibibio": "adidem",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "chief",
+    "ibibio": "abọọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "God",
+    "ibibio": "abasi",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "blessing",
+    "ibibio": "EDIDIONG",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "spirit",
+    "ibibio": "sịberịt",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "love",
+    "ibibio": "Ima",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "peace",
+    "ibibio": "ifuure",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "war",
+    "ibibio": "ekọn̄",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "friend",
+    "ibibio": "Ufan",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "food",
+    "ibibio": "ndidia",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "fish",
+    "ibibio": "amasa",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "meat",
+    "ibibio": "Unam",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "yam",
+    "ibibio": "bia",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "night",
+    "ibibio": "akon",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "come",
+    "ibibio": "di",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "speak",
+    "ibibio": "bo",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "hear",
+    "ibibio": "kop",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "heart",
+    "ibibio": "ekpuut",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "head",
+    "ibibio": "iwuot",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "eye",
+    "ibibio": "anyen",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "mouth",
+    "ibibio": "inua",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "rain",
+    "ibibio": "duọ",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "seed",
+    "ibibio": "n̄kua",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "soil",
+    "ibibio": "kpeen",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "learn",
+    "ibibio": "kpeep",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "teach",
+    "ibibio": "kpeep",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "write",
+    "ibibio": "weet",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "money",
+    "ibibio": "akVk",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "buy",
+    "ibibio": "deeme",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "sell",
+    "ibibio": "nyaam",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "work",
+    "ibibio": "utom",
+    "source": "glosbe",
+    "confidence": 1.0,
+    "augmentation_method": null
+  },
+  {
+    "english": "the child loves the mother",
+    "ibibio": "emi okut eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child loves the father",
+    "ibibio": "emi okut ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child loves the teacher",
+    "ibibio": "emi okut ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child loves the elder",
+    "ibibio": "emi okut nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother loves the child",
+    "ibibio": "eka okut emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother loves the father",
+    "ibibio": "eka okut ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother loves the teacher",
+    "ibibio": "eka okut ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother loves the elder",
+    "ibibio": "eka okut nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father loves the child",
+    "ibibio": "ete okut emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father loves the mother",
+    "ibibio": "ete okut eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father loves the teacher",
+    "ibibio": "ete okut ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father loves the elder",
+    "ibibio": "ete okut nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher loves the child",
+    "ibibio": "ukpong okut emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher loves the mother",
+    "ibibio": "ukpong okut eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher loves the father",
+    "ibibio": "ukpong okut ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher loves the elder",
+    "ibibio": "ukpong okut nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder loves the child",
+    "ibibio": "nnyin okut emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder loves the mother",
+    "ibibio": "nnyin okut eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder loves the father",
+    "ibibio": "nnyin okut ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder loves the teacher",
+    "ibibio": "nnyin okut ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child helps the mother",
+    "ibibio": "emi sip eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child helps the father",
+    "ibibio": "emi sip ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child helps the teacher",
+    "ibibio": "emi sip ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child helps the elder",
+    "ibibio": "emi sip nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother helps the child",
+    "ibibio": "eka sip emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother helps the father",
+    "ibibio": "eka sip ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother helps the teacher",
+    "ibibio": "eka sip ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother helps the elder",
+    "ibibio": "eka sip nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father helps the child",
+    "ibibio": "ete sip emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father helps the mother",
+    "ibibio": "ete sip eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father helps the teacher",
+    "ibibio": "ete sip ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father helps the elder",
+    "ibibio": "ete sip nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher helps the child",
+    "ibibio": "ukpong sip emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher helps the mother",
+    "ibibio": "ukpong sip eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher helps the father",
+    "ibibio": "ukpong sip ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher helps the elder",
+    "ibibio": "ukpong sip nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder helps the child",
+    "ibibio": "nnyin sip emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder helps the mother",
+    "ibibio": "nnyin sip eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder helps the father",
+    "ibibio": "nnyin sip ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder helps the teacher",
+    "ibibio": "nnyin sip ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child sees the mother",
+    "ibibio": "emi ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child sees the father",
+    "ibibio": "emi ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child sees the teacher",
+    "ibibio": "emi ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child sees the elder",
+    "ibibio": "emi ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother sees the child",
+    "ibibio": "eka ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother sees the father",
+    "ibibio": "eka ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother sees the teacher",
+    "ibibio": "eka ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother sees the elder",
+    "ibibio": "eka ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father sees the child",
+    "ibibio": "ete ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father sees the mother",
+    "ibibio": "ete ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father sees the teacher",
+    "ibibio": "ete ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father sees the elder",
+    "ibibio": "ete ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher sees the child",
+    "ibibio": "ukpong ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher sees the mother",
+    "ibibio": "ukpong ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher sees the father",
+    "ibibio": "ukpong ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher sees the elder",
+    "ibibio": "ukpong ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder sees the child",
+    "ibibio": "nnyin ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder sees the mother",
+    "ibibio": "nnyin ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder sees the father",
+    "ibibio": "nnyin ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder sees the teacher",
+    "ibibio": "nnyin ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child knows the mother",
+    "ibibio": "emi kpeme eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child knows the father",
+    "ibibio": "emi kpeme ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child knows the teacher",
+    "ibibio": "emi kpeme ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child knows the elder",
+    "ibibio": "emi kpeme nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother knows the child",
+    "ibibio": "eka kpeme emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother knows the father",
+    "ibibio": "eka kpeme ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother knows the teacher",
+    "ibibio": "eka kpeme ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother knows the elder",
+    "ibibio": "eka kpeme nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father knows the child",
+    "ibibio": "ete kpeme emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father knows the mother",
+    "ibibio": "ete kpeme eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father knows the teacher",
+    "ibibio": "ete kpeme ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father knows the elder",
+    "ibibio": "ete kpeme nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher knows the child",
+    "ibibio": "ukpong kpeme emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher knows the mother",
+    "ibibio": "ukpong kpeme eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher knows the father",
+    "ibibio": "ukpong kpeme ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher knows the elder",
+    "ibibio": "ukpong kpeme nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder knows the child",
+    "ibibio": "nnyin kpeme emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder knows the mother",
+    "ibibio": "nnyin kpeme eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder knows the father",
+    "ibibio": "nnyin kpeme ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder knows the teacher",
+    "ibibio": "nnyin kpeme ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child goes to the mother",
+    "ibibio": "emi ke ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child goes to the father",
+    "ibibio": "emi ke ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child goes to the teacher",
+    "ibibio": "emi ke ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child goes to the elder",
+    "ibibio": "emi ke ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother goes to the child",
+    "ibibio": "eka ke ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother goes to the father",
+    "ibibio": "eka ke ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother goes to the teacher",
+    "ibibio": "eka ke ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother goes to the elder",
+    "ibibio": "eka ke ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father goes to the child",
+    "ibibio": "ete ke ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father goes to the mother",
+    "ibibio": "ete ke ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father goes to the teacher",
+    "ibibio": "ete ke ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father goes to the elder",
+    "ibibio": "ete ke ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher goes to the child",
+    "ibibio": "ukpong ke ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher goes to the mother",
+    "ibibio": "ukpong ke ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher goes to the father",
+    "ibibio": "ukpong ke ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher goes to the elder",
+    "ibibio": "ukpong ke ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder goes to the child",
+    "ibibio": "nnyin ke ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder goes to the mother",
+    "ibibio": "nnyin ke ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder goes to the father",
+    "ibibio": "nnyin ke ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder goes to the teacher",
+    "ibibio": "nnyin ke ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child is with the mother",
+    "ibibio": "emi edi ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child is with the father",
+    "ibibio": "emi edi ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child is with the teacher",
+    "ibibio": "emi edi ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the child is with the elder",
+    "ibibio": "emi edi ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother is with the child",
+    "ibibio": "eka edi ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother is with the father",
+    "ibibio": "eka edi ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother is with the teacher",
+    "ibibio": "eka edi ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the mother is with the elder",
+    "ibibio": "eka edi ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father is with the child",
+    "ibibio": "ete edi ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father is with the mother",
+    "ibibio": "ete edi ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father is with the teacher",
+    "ibibio": "ete edi ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the father is with the elder",
+    "ibibio": "ete edi ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher is with the child",
+    "ibibio": "ukpong edi ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher is with the mother",
+    "ibibio": "ukpong edi ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher is with the father",
+    "ibibio": "ukpong edi ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the teacher is with the elder",
+    "ibibio": "ukpong edi ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder is with the child",
+    "ibibio": "nnyin edi ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder is with the mother",
+    "ibibio": "nnyin edi ke eka",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder is with the father",
+    "ibibio": "nnyin edi ke ete",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "the elder is with the teacher",
+    "ibibio": "nnyin edi ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "template_generation"
+  },
+  {
+    "english": "I see the child",
+    "ibibio": "Ami ke emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_singular"
+  },
+  {
+    "english": "I see the children",
+    "ibibio": "Ami ke mme emi",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_plural"
+  },
+  {
+    "english": "I see the house",
+    "ibibio": "Ami ke ufok",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_singular"
+  },
+  {
+    "english": "I see the houses",
+    "ibibio": "Ami ke mme ufok",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_plural"
+  },
+  {
+    "english": "I see the person",
+    "ibibio": "Ami ke nte",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_singular"
+  },
+  {
+    "english": "I see the people",
+    "ibibio": "Ami ke mme nte",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_plural"
+  },
+  {
+    "english": "I see the elder",
+    "ibibio": "Ami ke nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_singular"
+  },
+  {
+    "english": "I see the elders",
+    "ibibio": "Ami ke mme nnyin",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_plural"
+  },
+  {
+    "english": "I see the teacher",
+    "ibibio": "Ami ke ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_singular"
+  },
+  {
+    "english": "I see the teachers",
+    "ibibio": "Ami ke mme ukpong",
+    "source": "augmented",
+    "confidence": 0.85,
+    "augmentation_method": "morphological_plural"
+  },
+  {
+    "english": "I keep doing",
+    "ibibio": "Ami kpomkpom",
+    "source": "augmented",
+    "confidence": 0.9,
+    "augmentation_method": "reduplication"
+  },
+  {
+    "english": "I keep going",
+    "ibibio": "Ami keke",
+    "source": "augmented",
+    "confidence": 0.9,
+    "augmentation_method": "reduplication"
+  },
+  {
+    "english": "I keep eating",
+    "ibibio": "Ami didi",
+    "source": "augmented",
+    "confidence": 0.9,
+    "augmentation_method": "reduplication"
+  },
+  {
+    "english": "I keep speaking",
+    "ibibio": "Ami keke",
+    "source": "augmented",
+    "confidence": 0.9,
+    "augmentation_method": "reduplication"
+  },
+  {
+    "english": "This is mother",
+    "ibibio": "Ama edi eka",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_mid"
+  },
+  {
+    "english": "This is hand",
+    "ibibio": "Ama edi éká",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_high"
+  },
+  {
+    "english": "This is father",
+    "ibibio": "Ama edi ete",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_mid"
+  },
+  {
+    "english": "This is leaf",
+    "ibibio": "Ama edi étè",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_high"
+  },
+  {
+    "english": "This is child",
+    "ibibio": "Ama edi emi",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_mid"
+  },
+  {
+    "english": "This is breath",
+    "ibibio": "Ama edi émí",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_high"
+  },
+  {
+    "english": "This is place/land",
+    "ibibio": "Ama edi ison",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_mid"
+  },
+  {
+    "english": "This is ground",
+    "ibibio": "Ama edi íson",
+    "source": "augmented",
+    "confidence": 0.95,
+    "augmentation_method": "tone_high"
+  },
+  {
+    "english": "We am fine",
+    "ibibio": "nyin adi mme",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We am from Nigeria",
+    "ibibio": "nyin edi Nigeria",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We love you",
+    "ibibio": "nyin okut fo",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We am a student",
+    "ibibio": "nyin edi student",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We am going to school",
+    "ibibio": "nyin edi ke school",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We understand the lesson",
+    "ibibio": "nyin kpeme edisua",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We am sick",
+    "ibibio": "nyin edi obioma",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We have a headache",
+    "ibibio": "nyin edi obioma ke itie",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We love my family",
+    "ibibio": "nyin okut ufok nyin",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  },
+  {
+    "english": "We am hungry",
+    "ibibio": "nyin edi obioma idiok",
+    "source": "augmented",
+    "confidence": 0.8,
+    "augmentation_method": "pronoun_1sg_to_1pl"
+  }
+]

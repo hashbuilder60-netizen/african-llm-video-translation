@@ -1,0 +1,76 @@
+{
+  "evaluation_results": [
+    {
+      "model_name": "NLLB-200 Baseline",
+      "language": "Ibibio",
+      "bleu": 0.0,
+      "chrf": 0.0,
+      "chrf_plus": 0.0,
+      "meteor": 0.0,
+      "wer": 0.0,
+      "sample_count": 10,
+      "notes": ""
+    },
+    {
+      "model_name": "Fine-tuned Ibibio",
+      "language": "Ibibio",
+      "bleu": 0.0,
+      "chrf": 4.15,
+      "chrf_plus": 2.07,
+      "meteor": 12.14,
+      "wer": 0.0,
+      "sample_count": 10,
+      "notes": ""
+    }
+  ],
+  "catastrophic_forgetting": [
+    {
+      "language": "Yoruba",
+      "before_bleu": 0.0,
+      "after_bleu": 0.0,
+      "bleu_degradation": 0.0,
+      "before_chrf": 0.0,
+      "after_chrf": 0.0,
+      "chrf_degradation": 0.0,
+      "is_catastrophic": false
+    },
+    {
+      "language": "Hausa",
+      "before_bleu": 0.0,
+      "after_bleu": 0.0,
+      "bleu_degradation": 0.0,
+      "before_chrf": 49.88,
+      "after_chrf": 15.28,
+      "chrf_degradation": 34.6,
+      "is_catastrophic": false
+    }
+  ],
+  "wer_examples": [
+    {
+      "label": "Perfect transcription",
+      "reference": "education is important for every child",
+      "hypothesis": "education is important for every child",
+      "wer": 0.0
+    },
+    {
+      "label": "One word error",
+      "reference": "health is wealth",
+      "hypothesis": "health is welth",
+      "wer": 33.33
+    },
+    {
+      "label": "Missing words",
+      "reference": "we are one people united",
+      "hypothesis": "we one people",
+      "wer": 40.0
+    }
+  ],
+  "average_wer": 24.44,
+  "metric_explanations": {
+    "BLEU": "Measures exact n-gram matches. Higher is better. Range 0-100.",
+    "chrF": "Character n-gram F-score. Better than BLEU for morphologically rich languages like Ibibio. Higher is better.",
+    "chrF++": "chrF with word n-grams added. Most robust metric for Ibibio.",
+    "METEOR": "Considers synonyms and stemming. Better than BLEU for low-resource languages with shared word roots.",
+    "WER": "Word Error Rate for speech recognition. Lower is better. Range 0-100%."
+  }
+}

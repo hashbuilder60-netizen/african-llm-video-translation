@@ -1,0 +1,118 @@
+{
+    "video_duration": 19.157875,
+    "total_segments": 2,
+    "fused_segments": [
+        {
+            "segment_id": 0,
+            "timestamp": "0:00:00",
+            "text": "We have breaking news now in Sydney where two officers have escaped serious injury after a police car crashed and flipped in the city's west. It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn were responding to reports of men acting suspiciously in",
+            "text_embedding_shape": [
+                1,
+                768
+            ],
+            "visual_scenes": [
+                {
+                    "description": "dark scene with RGB values R:97 G:63 B:77 at resolution 1080x1920",
+                    "brightness": 74.56417438271605,
+                    "color_rgb": [
+                        96.65913724922835,
+                        62.7839380787037,
+                        77.20882860725314
+                    ],
+                    "resolution": [
+                        1080,
+                        1920
+                    ]
+                },
+                {
+                    "description": "normal lighting scene with RGB values R:129 G:90 B:113 at resolution 1080x1920",
+                    "brightness": 104.2105328896605,
+                    "color_rgb": [
+                        128.8629181134259,
+                        89.97793209876536,
+                        112.76823302469128
+                    ],
+                    "resolution": [
+                        1080,
+                        1920
+                    ]
+                },
+                {
+                    "description": "normal lighting scene with RGB values R:105 G:132 B:166 at resolution 1080x1920",
+                    "brightness": 128.0603515625,
+                    "color_rgb": [
+                        104.91582658179024,
+                        132.40171585648184,
+                        166.1277006172841
+                    ],
+                    "resolution": [
+                        1080,
+                        1920
+                    ]
+                }
+            ],
+            "fusion_summary": {
+                "text_length": 50,
+                "frames_analyzed": 3,
+                "has_visual": true,
+                "has_text": true
+            }
+        },
+        {
+            "segment_id": 1,
+            "timestamp": "0:00:09",
+            "text": "a car. Both officers are now being checked out at hospital.",
+            "text_embedding_shape": [
+                1,
+                768
+            ],
+            "visual_scenes": [
+                {
+                    "description": "normal lighting scene with RGB values R:127 G:111 B:99 at resolution 720x1280",
+                    "brightness": 114.36495442708333,
+                    "color_rgb": [
+                        126.84507595486114,
+                        111.01433376736102,
+                        98.97210286458335
+                    ],
+                    "resolution": [
+                        720,
+                        1280
+                    ]
+                },
+                {
+                    "description": "normal lighting scene with RGB values R:133 G:114 B:101 at resolution 720x1280",
+                    "brightness": 118.29953776041667,
+                    "color_rgb": [
+                        132.9327170138889,
+                        114.25256401909725,
+                        100.82101888020817
+                    ],
+                    "resolution": [
+                        720,
+                        1280
+                    ]
+                },
+                {
+                    "description": "normal lighting scene with RGB values R:134 G:114 B:100 at resolution 720x1280",
+                    "brightness": 118.38239040798611,
+                    "color_rgb": [
+                        134.104435763889,
+                        113.90212239583343,
+                        100.31671115451384
+                    ],
+                    "resolution": [
+                        720,
+                        1280
+                    ]
+                }
+            ],
+            "fusion_summary": {
+                "text_length": 11,
+                "frames_analyzed": 3,
+                "has_visual": true,
+                "has_text": true
+            }
+        }
+    ]
+}

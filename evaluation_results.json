@@ -1,0 +1,71 @@
+{
+    "bleu_scores": {
+        "baseline_nllb200": 0.0,
+        "finetuned_ibibio": 9.33,
+        "improvement": 9.33
+    },
+    "translation_comparisons": [
+        {
+            "english": "Good morning",
+            "reference": "Ememe nnyin",
+            "baseline_nllb": "Ọ̀sán yòò",
+            "finetuned_ibibio": "Ison ami"
+        },
+        {
+            "english": "Thank you",
+            "reference": "Sosongo",
+            "baseline_nllb": "O ṣeun gan-an.",
+            "finetuned_ibibio": "Mo fo"
+        },
+        {
+            "english": "How are you",
+            "reference": "Afo ke",
+            "baseline_nllb": "Báwo ló ṣe rí lára rẹ?",
+            "finetuned_ibibio": "Bawo ni emi"
+        },
+        {
+            "english": "I am fine",
+            "reference": "Ami adi mme",
+            "baseline_nllb": "Gbogbo nǹkan ń lọ dáadáa fún mi",
+            "finetuned_ibibio": "Emi edi edi"
+        },
+        {
+            "english": "God bless you",
+            "reference": "Abasi mbot fo",
+            "baseline_nllb": "kí ọlọ́run bù kún ẹ",
+            "finetuned_ibibio": "Olorun edi ke"
+        },
+        {
+            "english": "Education is important",
+            "reference": "Edisua edi mme ekpuk",
+            "baseline_nllb": "Ẹ̀kọ́ ṣe pàtàkì",
+            "finetuned_ibibio": "Edikopon edi mme"
+        },
+        {
+            "english": "Health is wealth",
+            "reference": "Ndito edi iman",
+            "baseline_nllb": "Ìlera jẹ́ ọrọ̀",
+            "finetuned_ibibio": "Ilera je idibo"
+        },
+        {
+            "english": "I love my family",
+            "reference": "Ami okut ufok ami",
+            "baseline_nllb": "Mo nífẹ̀ẹ́ ìdílé mi",
+            "finetuned_ibibio": "Emi fe idibo mi"
+        },
+        {
+            "english": "We are one people",
+            "reference": "Nyin edi nte",
+            "baseline_nllb": "Èèyàn kan ni wá",
+            "finetuned_ibibio": "Ison edi ke"
+        },
+        {
+            "english": "Our language is beautiful",
+            "reference": "Eket nyin edi mme",
+            "baseline_nllb": "Èdè wa dára gan-an",
+            "finetuned_ibibio": "Èdè wa lẹ́wà"
+        }
+    ],
+    "test_sentences": 10,
+    "corpus_size": 226
+}

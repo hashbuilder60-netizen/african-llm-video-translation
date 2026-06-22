@@ -1,0 +1,930 @@
+[
+  {
+    "segment_id": 1,
+    "start": 0.0,
+    "end": 5.68,
+    "original": "I want to show you how to research anything because research is power.",
+    "translation": "Maa ngi leen bëgg a wone ni ngeen man a seetlu lépp, ndaxte seetlu mooy kàttan.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 2,
+    "start": 5.68,
+    "end": 10.0,
+    "original": "It's also a skill and once you learn how to do it, you can literally teach yourself",
+    "translation": "Am na itam xam-xam, te bu ngeen jàngee ko, mën ngeen jàngal seen bopp.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 3,
+    "start": 10.0,
+    "end": 11.0,
+    "original": "whatever you want.",
+    "translation": "lu nga bëgg.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 4,
+    "start": 11.0,
+    "end": 14.76,
+    "original": "And if come to realize lately that most people don't know how to research, they know how",
+    "translation": "Te bu ñu xam ne ci jamono jii, nit ñi xamul lu ñu war a seetlu, xam nañu lu ñu war a seetlu.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 5,
+    "start": 14.76,
+    "end": 15.76,
+    "original": "to search.",
+    "translation": "ngir seet.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 6,
+    "start": 15.76,
+    "end": 19.88,
+    "original": "And there's actually a very big difference because when you search, you're relying on other",
+    "translation": "Te am na ci dëgg-dëgg am na lu réy, ndaxte bu ngeen di seet, ngeen di yaakaar ci yeneen",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 7,
+    "start": 19.88,
+    "end": 22.44,
+    "original": "people to think for you and we don't want that.",
+    "translation": "nit ñu xalaat ngir yaw, te nu bëggul loolu.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 8,
+    "start": 22.44,
+    "end": 23.84,
+    "original": "We want to do better.",
+    "translation": "Nu ngi bëggoon a gën.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 9,
+    "start": 23.84,
+    "end": 26.080000000000002,
+    "original": "So yeah, research has levels to it.",
+    "translation": "Kon, ci xam-xam yi amoon na ay wàllu.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 10,
+    "start": 26.080000000000002,
+    "end": 29.560000000000002,
+    "original": "My system that I use has four, so I'm going to walk you through them.",
+    "translation": "Ci sama sistem la naa jëfandikoo, am na ñeenti, kon dinaa leen la indi ci ñoom.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 11,
+    "start": 29.56,
+    "end": 31.68,
+    "original": "One is your surface search.",
+    "translation": "Benn ci ñoom mooy sa seetukaay.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 12,
+    "start": 31.68,
+    "end": 35.6,
+    "original": "This is where you need to start, but this is also where most people stop.",
+    "translation": "Foofa la nga war a tàmbalee, waaye fii la mbooloo mépp taxaw.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 13,
+    "start": 35.6,
+    "end": 41.76,
+    "original": "This is your Google search, the TikTok videos, the YouTube explanations, the AI answers.",
+    "translation": "Loolu mooy say seetukaay ci Google, vidéo yi ci TikTok, bayil yi ci YouTube, tontu yi ci AI yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 14,
+    "start": 41.76,
+    "end": 46.519999999999996,
+    "original": "And the problem with stopping here is that you're getting compressed conclusions and you're",
+    "translation": "Te njàqare bi nekk ci di taxaw fii mooy nga am na njàqare yu dëgër te nga am na",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 15,
+    "start": 46.519999999999996,
+    "end": 48.64,
+    "original": "not understanding how they were built.",
+    "translation": "te xamul lu ñu doon tabax.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 16,
+    "start": 48.64,
+    "end": 49.64,
+    "original": "So let's take an example.",
+    "translation": "Léegi, nanu jël misaal.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 17,
+    "start": 49.64,
+    "end": 55.0,
+    "original": "Let's say that you search up what is dark matter and you get results like, well, it",
+    "translation": "Jëfleen ne, nga seetlu lu lëndëm lëndëm la, te nga jot ay jëfandikukat ni:",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 18,
+    "start": 55.0,
+    "end": 57.6,
+    "original": "makes up 85% of the universe.",
+    "translation": "moo tax 85% ci àddina si.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 19,
+    "start": 57.6,
+    "end": 58.76,
+    "original": "We can't see it.",
+    "translation": "Xam nanu ko.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 20,
+    "start": 58.76,
+    "end": 60.52,
+    "original": "It affects gravity.",
+    "translation": "Jëfandikoo ci gravite.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 21,
+    "start": 60.52,
+    "end": 65.12,
+    "original": "You get all these facts, but you still don't understand things like how do we know that",
+    "translation": "Da nga xam lépp, waaye du nga xam lu mel ni nu xam ne",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 22,
+    "start": 65.12,
+    "end": 71.44,
+    "original": "it exists or what evidence actually supports it or what competing theories to it are?",
+    "translation": "Ndax am na, walla lu jëm ci lu am solo, walla lu jëm ci téori yu bari?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 23,
+    "start": 71.44,
+    "end": 73.48,
+    "original": "So how do you level one correctly?",
+    "translation": "Kon nag, lu baax la nga def ci wàllu benn?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 24,
+    "start": 73.48,
+    "end": 77.4,
+    "original": "You use it as orientation for yourself and not education.",
+    "translation": "Dinaa ko jëfandikoo ngir jébbal sa bopp, du jàngal.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 25,
+    "start": 77.4,
+    "end": 83.56,
+    "original": "So your goal at this level should be learning the vocabulary, identifying the key concepts",
+    "translation": "Loolu tax sa bëggoon ci wàll bii war a nekk a jàng li ñuy wax, xam li ñuy wax.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 26,
+    "start": 83.56,
+    "end": 87.76,
+    "original": "and generating more questions for yourself, figuring out what you still don't know and",
+    "translation": "te sàmm ay laaj ngir sa bopp, xam li nga xamul te",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 27,
+    "start": 87.76,
+    "end": 89.92,
+    "original": "what you're still really curious about.",
+    "translation": "li nga fi sax a bëgg a xam.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 28,
+    "start": 89.92,
+    "end": 94.8,
+    "original": "You spend 10 to 15 minutes doing the search at level one, like maximum.",
+    "translation": "Yëfandikoo 10 walla 15 minut ci seet bu nekk ci wàllu benn, mel ni maximaal.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 29,
+    "start": 94.8,
+    "end": 99.0,
+    "original": "And then you stop and you ask yourself, what do I still not understand?",
+    "translation": "Gannaaw loolu ngay taxaw te laaj sa bopp: \"Lu ma xamul?\"",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 30,
+    "start": 99.0,
+    "end": 102.16,
+    "original": "And that question is your doorway to your level two.",
+    "translation": "Te sa laaj mooy sa bunt bu jëm ci sa taxawaayu ñaar.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 31,
+    "start": 102.16,
+    "end": 104.76,
+    "original": "Level two is source expansion.",
+    "translation": "Tàngal 2 mooy àddukaay bi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 32,
+    "start": 104.76,
+    "end": 107.16,
+    "original": "This is where you begin to really investigate.",
+    "translation": "Foofa la ngay tàmbalee seetlu.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 33,
+    "start": 107.16,
+    "end": 108.76,
+    "original": "So what does this look like?",
+    "translation": "Kon nag, lu mel ni lii?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 34,
+    "start": 108.76,
+    "end": 111.88000000000001,
+    "original": "This is clicking sources and articles.",
+    "translation": "Lii mooy jëfandikoo ci yeneen wàll ak ci yeneen wàll.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 35,
+    "start": 111.88000000000001,
+    "end": 115.52000000000001,
+    "original": "It's reading entire studies instead of just the summary of the study.",
+    "translation": "Dañuy jàng ay àddukaay yu mat sëriñ rekk, te bañ a jàng àddukaay bi rekk.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 36,
+    "start": 115.52000000000001,
+    "end": 119.12,
+    "original": "It's following links and citations and references.",
+    "translation": "Dañuy topp ay bind ak ay wax ak ay référenc yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 37,
+    "start": 119.12,
+    "end": 120.52000000000001,
+    "original": "This is where you go from.",
+    "translation": "Foofa la jóge.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 38,
+    "start": 120.52000000000001,
+    "end": 121.52000000000001,
+    "original": "What is this?",
+    "translation": "Lan la loolu?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 39,
+    "start": 121.52000000000001,
+    "end": 123.52000000000001,
+    "original": "To where did this come from?",
+    "translation": "Fa la loolu jóge?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 40,
+    "start": 123.52000000000001,
+    "end": 125.68,
+    "original": "Let's go back to the dark matter example.",
+    "translation": "Delluwaat ci misaal gi ci lëndëm lëndëm.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 41,
+    "start": 125.68,
+    "end": 128.64000000000001,
+    "original": "Now you're no longer staying on Google or TikTok.",
+    "translation": "Léegi, du ngay toog ci Google walla TikTok.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 42,
+    "start": 128.64000000000001,
+    "end": 130.76,
+    "original": "You are opening the NASA page.",
+    "translation": "Dinaa ubbi xët NASA bi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 43,
+    "start": 130.76,
+    "end": 132.64000000000001,
+    "original": "You're clicking the cited research.",
+    "translation": "Déglu nga ci li ñuy wax ci wàll gi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 44,
+    "start": 132.64000000000001,
+    "end": 138.52,
+    "original": "You're opening up the Galaxy Rotation Curve Study and you're seeing the observations by",
+    "translation": "Dangeen ubbi Xam-xamu Géej-Géej-Géej-Géej-Géej-Géej-Géej-Géej-Géej-Géej-Géej",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 45,
+    "start": 138.52,
+    "end": 139.52,
+    "original": "scientists.",
+    "translation": "xam-xam yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 46,
+    "start": 139.52,
+    "end": 144.4,
+    "original": "So this is so important because now you are seeing the evidence and not just the conclusion.",
+    "translation": "Kon loolu am na njariñ, ndaxte léegi ngeen di gis lu jëm ci lu jëm ci lu jëm ci lu jëm ci lu jëm ci lu jëm ci lu jëm ci njariñ.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 47,
+    "start": 144.4,
+    "end": 148.08,
+    "original": "So how do you level to properly open everything?",
+    "translation": "Kon nag, lu ngay def ngir ubbi lépp lu rafet?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 48,
+    "start": 148.08,
+    "end": 149.64000000000001,
+    "original": "Don't just read the page and close it down.",
+    "translation": "Bul jàngal xët bi rekk te tëj ko.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 49,
+    "start": 149.64000000000001,
+    "end": 153.60000000000002,
+    "original": "You should have five to ten tabs open of everything that you're looking at.",
+    "translation": "Da nga am juróomi walla fukki tab yu ubbi ci lépp lu nga gis.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 50,
+    "start": 153.60000000000002,
+    "end": 156.4,
+    "original": "You should be following citations backwards at this point.",
+    "translation": "Bu ko defee, war nga topp li ñu koy wax.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 51,
+    "start": 156.4,
+    "end": 161.76000000000002,
+    "original": "So going from the article to the study to the original data, all of that is always pretty",
+    "translation": "Ci lu jëm ci article bi, ci njàngat bi, ci data bi, loolu lépp lu baax na.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 52,
+    "start": 161.76000000000002,
+    "end": 162.76000000000002,
+    "original": "much linked.",
+    "translation": "lool.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 53,
+    "start": 162.76,
+    "end": 169.76,
+    "original": "You should be prioritizing.edu's.gov's, published papers, any content from the expert in the",
+    "translation": "Yéen war ngeen di fàttaliku ci.edu's.gov, téere yi ñu dogal, lépp lu nekk ci xët yi ci",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 54,
+    "start": 169.76,
+    "end": 170.76,
+    "original": "field.",
+    "translation": "àll bi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 55,
+    "start": 170.76,
+    "end": 176.0,
+    "original": "And you should be asking yourself, what is this claim that I'm looking up based on?",
+    "translation": "Te waral nga laaj sa bopp, lu tax laa ngi seet lii?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 56,
+    "start": 176.0,
+    "end": 179.79999999999998,
+    "original": "Because if you can't answer that, you are probably still back at level one.",
+    "translation": "Ndaxte bu ngeen mënul a tontu loolu, dingeen di dellu ci wàllu benn.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 57,
+    "start": 179.79999999999998,
+    "end": 182.95999999999998,
+    "original": "I get into level three, which is pattern recognition.",
+    "translation": "Maa ngi dugg ci taxawaayu ñetteelu, maanaam xam-xam.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 58,
+    "start": 182.95999999999998,
+    "end": 187.51999999999998,
+    "original": "And I think that this is the level where the truth really starts to show up because",
+    "translation": "Te maa ngi xalaat ne ci loolu la dëgg tàmbalee feeñ, ndaxte",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 59,
+    "start": 187.52,
+    "end": 193.04000000000002,
+    "original": "at this level, your main focus is comparing multiple sources and you're paying attention",
+    "translation": "ci wàll bii, sa màndarga di taxoon ay wàll yu bare, te nga di sàmm.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 60,
+    "start": 193.04000000000002,
+    "end": 196.0,
+    "original": "to agreements and contradictions among them.",
+    "translation": "Xët yi ci wàll gi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 61,
+    "start": 196.0,
+    "end": 199.88,
+    "original": "You are identifying repeated ideas that you see.",
+    "translation": "Dinaa xamal ay xalaat yi nga gis.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 62,
+    "start": 199.88,
+    "end": 205.20000000000002,
+    "original": "You're really looking for things that show up repeatedly across those sources, whether",
+    "translation": "Dinaa ngi wut lu feeñ ci yeneen wàll yi,",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 63,
+    "start": 205.20000000000002,
+    "end": 211.48000000000002,
+    "original": "they are numbers or questions or ideas or arguments because it shows that they are important.",
+    "translation": "ay xibaar, ay laaj, ay xalaat, ay xalaat, ndax mooy wone ne ñu am na njariñ.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 64,
+    "start": 211.48000000000002,
+    "end": 215.16000000000003,
+    "original": "Let's say that you read six different sources on dark matter.",
+    "translation": "Jëfleen ne nga jàng na juróom-ñeen xët yu wuute ci mbirum lëndëm lëndëm.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 65,
+    "start": 215.16,
+    "end": 219.35999999999999,
+    "original": "And six of them said that Galaxy rotation does not match visible mass and one of them",
+    "translation": "Te juróom-ñeen ci ñoom di ne, daalug galaxi du mat sëriñ gi ñuy gis, te benn ci ñoom",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 66,
+    "start": 219.35999999999999,
+    "end": 221.8,
+    "original": "said that maybe gravity laws are wrong.",
+    "translation": "Mu ne, man na am lu bon ci yoonu gravite.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 67,
+    "start": 221.8,
+    "end": 226.28,
+    "original": "So now you really see the consensus happening within the topic itself.",
+    "translation": "Léegi, gis na ne, am na njariñ ci biir mbir mi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 68,
+    "start": 226.28,
+    "end": 231.24,
+    "original": "You see the outliers and you see the debate that exists and you're starting to get a real",
+    "translation": "Bi nga gisee xët yi gën a rafet, nga gisee xët yi gën a rafet.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 69,
+    "start": 231.24,
+    "end": 233.28,
+    "original": "understanding of what you're learning about.",
+    "translation": "xam lu ngeen di jàngal.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 70,
+    "start": 233.28,
+    "end": 236.72,
+    "original": "At any level, three properly, you look for overlap.",
+    "translation": "Ci wàll bu nekk, ñetti ci dëgg-dëgg, mën a seetlu lu dul coppite.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 71,
+    "start": 236.72,
+    "end": 239.0,
+    "original": "So what do most of the sources agree on?",
+    "translation": "Kon ci lu la yeneen téere yi bokk?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 72,
+    "start": 239.0,
+    "end": 241.64,
+    "original": "You also should be noticing the disagreement.",
+    "translation": "Dangeen itam gis li ñu bañ a nangu.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 73,
+    "start": 241.64,
+    "end": 245.72,
+    "original": "So figure out where the experts diverge on that topic.",
+    "translation": "Su ko defee, xamleen ci li ay xët di wuute ci mbir mi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 74,
+    "start": 245.72,
+    "end": 247.92,
+    "original": "You should be ranking the evidence that you find.",
+    "translation": "Yéen war ngeen di sàkk ay firnde yu ngeen gis.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 75,
+    "start": 247.92,
+    "end": 251.88,
+    "original": "You can separate it into strong evidence versus speculation.",
+    "translation": "Dinaa koy séddale ci lu dëgër te lu dëgër.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 76,
+    "start": 251.88,
+    "end": 257.03999999999996,
+    "original": "You can also create like three mental buckets or write them down if you want to obviously.",
+    "translation": "Yéen itam mën nga sàkk ñetti xëtu xel walla bind leen, su ngeen bëggee.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 77,
+    "start": 257.03999999999996,
+    "end": 262.03999999999996,
+    "original": "But one is information you find that's consistent across all the sources.",
+    "translation": "Waaye benn ci ñoom mooy xam-xamu bi nga gis, lu ànd ak yeneen xët yépp.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 78,
+    "start": 262.03999999999996,
+    "end": 267.68,
+    "original": "Another one for information that is debated and another one for information that is uncertain.",
+    "translation": "Am na benn ci xam-xam bu ñu ngi xeex ak benn ci xam-xam bu ñu am solo.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 79,
+    "start": 267.68,
+    "end": 272.02,
+    "original": "And by doing that, you are actually teaching yourself and building your own intellectual",
+    "translation": "Te bu ngeen def loolu, ngeen di jàngal seen bopp, di tabax seen bopp xel.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 80,
+    "start": 272.02,
+    "end": 273.72,
+    "original": "judgment on the topic.",
+    "translation": "àtte ci mbir mi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 81,
+    "start": 273.72,
+    "end": 278.96,
+    "original": "A level for the depth and framework level because this is where you stop learning information",
+    "translation": "A niveau pour la profondeur et le niveau cadre parce que c'est là où vous arrêtez d'apprendre l'information",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 82,
+    "start": 278.96,
+    "end": 281.8,
+    "original": "and you start thinking in systems.",
+    "translation": "te ngay tàmbalee xalaat ci sistema yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 83,
+    "start": 281.8,
+    "end": 283.52,
+    "original": "You are asking better questions.",
+    "translation": "Yaa ngi laaj laaj yu gën a rafet.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 84,
+    "start": 283.52,
+    "end": 288.4,
+    "original": "You are building mental models of the topic that you're researching and you're starting",
+    "translation": "Yéen di sàkk xeeti xel ci mbir mi ngeen di seetlu te ngeen di tàmbalee",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 85,
+    "start": 288.4,
+    "end": 292.8,
+    "original": "to connect ideas across different fields of research.",
+    "translation": "ngir xeex ay xalaat ci àll yu wuute yi ci àll yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 86,
+    "start": 292.8,
+    "end": 298.0,
+    "original": "So you're really looking for the structure behind the topic of whatever you're researching.",
+    "translation": "Kon ngeen di wut njariñ bi nekk ci mbirum li ngeen di seet.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 87,
+    "start": 298.0,
+    "end": 302.68,
+    "original": "Instead of asking what is dark matter, we're asking deeper questions.",
+    "translation": "Ci loxol laaj lu lëndëm lëndëm la, nu ngi laaj laaj yu gën a màgg.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 88,
+    "start": 302.68,
+    "end": 308.0,
+    "original": "We're asking things like why does gravity behave this way or what assumptions are built",
+    "translation": "Nu ngi laaj wax yu mel ni lu tax gravite bi di jëfandikoo ci noonu, walla li ñu tax",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 89,
+    "start": 308.0,
+    "end": 313.48,
+    "original": "into our existing model of dark matter or what would have to be true for all of this",
+    "translation": "ci sunu màndarga lëndëm gi nekk, walla lu war a am solo ci loolu lépp.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 90,
+    "start": 313.48,
+    "end": 315.48,
+    "original": "to be wrong.",
+    "translation": "ngir man a ñàkk dëgg.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 91,
+    "start": 315.48,
+    "end": 320.36,
+    "original": "You are really training yourself to think more deeply and to ask better questions, which",
+    "translation": "Sa bopp nga ngi leen di jàngal ngir gën a xalaat te di laaj laaj yu gën a rafet,",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 92,
+    "start": 320.36,
+    "end": 322.36,
+    "original": "is very important in research.",
+    "translation": "am na njàngat bu réy ci àññut.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 93,
+    "start": 322.36,
+    "end": 327.88,
+    "original": "The level we are asking second order questions, we are not just asking what, but why and",
+    "translation": "Ci wàll bi, nu ngi laaj laaj yi, du lu rekk, waaye lu tax te lu tax.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 94,
+    "start": 327.88,
+    "end": 331.16,
+    "original": "what if we are building on our mental models.",
+    "translation": "lu ngay def bu nu di jëfe ci sunuy xeeti xel?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 95,
+    "start": 331.16,
+    "end": 334.12,
+    "original": "So take a piece of paper and draw it out in front of you, right?",
+    "translation": "Léegi nanga jël benn wàll ak jël ko ci seen kanam, dëgg-dëgg?",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 96,
+    "start": 334.12,
+    "end": 337.12,
+    "original": "Dark matter, it's a placeholder for missing math.",
+    "translation": "Matérium lëndëm, moo tax mën a fàttaliku matematik yu ñàkk.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 97,
+    "start": 337.12,
+    "end": 339.0,
+    "original": "It's inferred from gravitational effects.",
+    "translation": "Jëfandikoo ko ci wàllu gravitation.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 98,
+    "start": 339.0,
+    "end": 341.2,
+    "original": "It's not directly observable.",
+    "translation": "Duñu ko gis ci lu tàkk.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 99,
+    "start": 341.2,
+    "end": 344.92,
+    "original": "Draw it out so you can see the map of it and start connecting it out.",
+    "translation": "Jëfleen ko ngir mën a gis map bi, te tàmbalee ko boole.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 100,
+    "start": 344.92,
+    "end": 346.08000000000004,
+    "original": "Dark matter is physics.",
+    "translation": "Matérium lëndëm mooy physique.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 101,
+    "start": 346.08000000000004,
+    "end": 347.24,
+    "original": "It's cosmology.",
+    "translation": "Lii mooy cosmoloji.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 102,
+    "start": 347.24,
+    "end": 349.28000000000003,
+    "original": "It's philosophy of science.",
+    "translation": "Lii mooy filozofii xam-xam bi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 103,
+    "start": 349.28,
+    "end": 354.96,
+    "original": "You can take the information you have and draw it out into what is evidence, what is uncertain,",
+    "translation": "Yéen mën na jël li ngeen am, di ko jël ci lu am solo, lu amul njariñ,",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 104,
+    "start": 354.96,
+    "end": 358.55999999999995,
+    "original": "what about the topic is the limitations of our knowledge.",
+    "translation": "lu jëm ci mbir mi mooy xeex yi sunu xam-xam am.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 105,
+    "start": 358.55999999999995,
+    "end": 362.59999999999997,
+    "original": "When you start to draw it out in front of you and build a model that you start to see",
+    "translation": "Bi nga tàmbalee di ko tàmbalee ci seen kanam, di sàkk njariñ bi nga tàmbalee gis",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 106,
+    "start": 362.59999999999997,
+    "end": 366.32,
+    "original": "all of the connections and you start to see all the missing gaps.",
+    "translation": "Yëfandikukat yi yépp, te ngay tàmbalee gis lépp lu ñàkk.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 107,
+    "start": 366.32,
+    "end": 370.15999999999997,
+    "original": "And it is crazy how much that really helps your understanding of it.",
+    "translation": "Te lu yàgg mooy lu ko man a xam.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 108,
+    "start": 370.15999999999997,
+    "end": 373.59999999999997,
+    "original": "The thing about research is that it is not linear, it is a loop.",
+    "translation": "Li am ci àññut gi mooy li ko war a am, du liineer, du liineer.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 109,
+    "start": 373.59999999999997,
+    "end": 377.71999999999997,
+    "original": "So you search and then you expand and then you compare and then you build those mental",
+    "translation": "Ci noonu nga seet, ba noppi nga àgge, ba noppi nga tekki, ba noppi nga tabax ci xel yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 110,
+    "start": 377.72,
+    "end": 378.72,
+    "original": "models.",
+    "translation": "model yi.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 111,
+    "start": 378.72,
+    "end": 381.24,
+    "original": "And from those mental models you get better questions.",
+    "translation": "Te ci xeeti xel yooyu, dingeen am ay laaj yu gën a rafet.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 112,
+    "start": 381.24,
+    "end": 385.64000000000004,
+    "original": "And then you repeat it all over again with the better questions you search and you expand",
+    "translation": "Gannaaw loolu nga di ko tekkiwaat ak yeneen laaj yu gën a rafet.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 113,
+    "start": 385.64000000000004,
+    "end": 388.68,
+    "original": "again and you compare and you build more models.",
+    "translation": "Bu ko defee, nga tekki, nga sàkk yeneen xeeti.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 114,
+    "start": 388.68,
+    "end": 391.72,
+    "original": "And that is how you learn how to think for yourself.",
+    "translation": "Te noonu la nga jàng a xalaat boppam.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 115,
+    "start": 391.72,
+    "end": 394.68,
+    "original": "That is how you truly begin to understand something.",
+    "translation": "Moo tax ngay tàmbalee xam lu am solo.",
+    "language": "wolof"
+  },
+  {
+    "segment_id": 116,
+    "start": 394.68,
+    "end": 399.0,
+    "original": "And that is how following your curiosity becomes very, very powerful.",
+    "translation": "Te noonu la topp sa xeex a am doole bu réy.",
+    "language": "wolof"
+  }
+]

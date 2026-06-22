@@ -1,0 +1,19 @@
+{
+    "total_pairs": 286,
+    "new_pairs_added": 60,
+    "invalid_filtered": 2,
+    "source_breakdown": {
+        "glosbe": 128,
+        "jw_org_raw": 15,
+        "bible": 0,
+        "linguistic": 0,
+        "omniglot": 0
+    },
+    "sources_used": [
+        "glosbe_dictionary",
+        "jw_org",
+        "bible_parallel",
+        "linguistic_resources",
+        "omniglot"
+    ]
+}

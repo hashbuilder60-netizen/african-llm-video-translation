@@ -1,0 +1,367 @@
+{
+    "phoneme_inventory": {
+        "e": 781,
+        "i": 571,
+        "m": 495,
+        "n": 476,
+        "k": 447,
+        "o": 317,
+        "a": 290,
+        "d": 216,
+        "p": 170,
+        "u": 153,
+        "t": 140,
+        "y": 106,
+        "g": 96,
+        "s": 95,
+        "b": 64,
+        "f": 55,
+        "r": 24,
+        "c": 12,
+        "ọ": 12,
+        "l": 10,
+        "h": 9,
+        "w": 6,
+        "ị": 4,
+        "é": 3,
+        "v": 2,
+        "í": 2,
+        "б": 1,
+        "а": 1,
+        "á": 1,
+        "è": 1
+    },
+    "top_bigrams": {
+        "ke": 176,
+        "di": 168,
+        "kp": 131,
+        "me": 130,
+        "ed": 130,
+        "mi": 111,
+        "em": 109,
+        "on": 107,
+        "in": 103,
+        "mm": 102,
+        "ny": 100,
+        "yi": 96,
+        "ng": 80,
+        "te": 76,
+        "am": 75,
+        "po": 74,
+        "om": 73,
+        "ek": 71,
+        "uk": 65,
+        "nn": 63
+    },
+    "top_trigrams": {
+        "edi": 130,
+        "nyi": 96,
+        "yin": 96,
+        "mme": 89,
+        "ong": 79,
+        "kpo": 74,
+        "nny": 59,
+        "ukp": 58,
+        "emi": 56,
+        "ami": 55,
+        "pon": 51,
+        "eka": 51,
+        "ete": 50,
+        "eme": 40,
+        "kpe": 35,
+        "pem": 31,
+        "dom": 31,
+        "sip": 29,
+        "son": 26,
+        "oku": 26
+    },
+    "syllable_patterns": {
+        "V-C-V": 348,
+        "C-V": 201,
+        "V-C-V-C": 115,
+        "C-C-V": 109,
+        "C-C-V-C": 74,
+        "C-V-C": 66,
+        "C-C-C-V-C": 59,
+        "V-C-C-V-C-C": 51,
+        "C-C-V-C-V": 32,
+        "V-C-V-C-V-V": 22
+    },
+    "word_frequency": {
+        "ke": 169,
+        "edi": 110,
+        "mme": 89,
+        "nnyin": 59,
+        "emi": 56,
+        "ami": 55,
+        "ukpong": 51,
+        "eka": 51,
+        "ete": 50,
+        "nyin": 37,
+        "dom": 31,
+        "sip": 28,
+        "okut": 26,
+        "kpeme": 26,
+        "iman": 25,
+        "ison": 22,
+        "kpom": 21,
+        "fo": 19,
+        "nte": 19,
+        "ufok": 16,
+        "ama": 14,
+        "obioma": 12,
+        "mmong": 12,
+        "edisua": 11,
+        "ibibio": 9,
+        "kpukpru": 7,
+        "abasi": 7,
+        "ekpuk": 6,
+        "ememe": 5,
+        "nigeria": 5,
+        "di": 5,
+        "idiok": 5,
+        "kpem": 5,
+        "ekong": 5,
+        "bi": 5,
+        "adie": 4,
+        "asak": 4,
+        "ndito": 4,
+        "efik": 4,
+        "ediong": 4,
+        "idiong": 3,
+        "adi": 3,
+        "sosongo": 3,
+        "emem": 3,
+        "gop": 3,
+        "eket": 3,
+        "technology": 3,
+        "edidem": 3,
+        "ntre": 2,
+        "student": 2
+    },
+    "top_prefixes": {
+        "ed": 129,
+        "edi": 129,
+        "mm": 102,
+        "mme": 89,
+        "am": 70,
+        "ek": 69,
+        "em": 64,
+        "nn": 63,
+        "kp": 63,
+        "nny": 59
+    },
+    "top_suffixes": {
+        "me": 121,
+        "di": 115,
+        "mi": 111,
+        "edi": 110,
+        "in": 96,
+        "yin": 96,
+        "mme": 89,
+        "ng": 77,
+        "ong": 76,
+        "te": 69
+    },
+    "bpe_merges": [
+        [
+            "e",
+            "</w>"
+        ],
+        [
+            "i",
+            "</w>"
+        ],
+        [
+            "k",
+            "e</w>"
+        ],
+        [
+            "n",
+            "</w>"
+        ],
+        [
+            "k",
+            "p"
+        ],
+        [
+            "e",
+            "d"
+        ],
+        [
+            "m",
+            "e</w>"
+        ],
+        [
+            "a",
+            "</w>"
+        ],
+        [
+            "m",
+            "i</w>"
+        ],
+        [
+            "ed",
+            "i</w>"
+        ],
+        [
+            "n",
+            "y"
+        ],
+        [
+            "ny",
+            "i"
+        ],
+        [
+            "nyi",
+            "n</w>"
+        ],
+        [
+            "m",
+            "me</w>"
+        ],
+        [
+            "n",
+            "g"
+        ],
+        [
+            "o",
+            "ng"
+        ],
+        [
+            "ong",
+            "</w>"
+        ],
+        [
+            "m",
+            "</w>"
+        ],
+        [
+            "t",
+            "e</w>"
+        ],
+        [
+            "e",
+            "k"
+        ],
+        [
+            "n",
+            "nyin</w>"
+        ],
+        [
+            "u",
+            "kp"
+        ],
+        [
+            "o",
+            "m</w>"
+        ],
+        [
+            "e",
+            "mi</w>"
+        ],
+        [
+            "a",
+            "mi</w>"
+        ],
+        [
+            "o",
+            "k"
+        ],
+        [
+            "ukp",
+            "ong</w>"
+        ],
+        [
+            "ek",
+            "a</w>"
+        ],
+        [
+            "e",
+            "te</w>"
+        ],
+        [
+            "o",
+            "</w>"
+        ]
+    ],
+    "interpolated_vocabulary": {
+        "elder": {
+            "best": "nnyin",
+            "ibibio": "nnyin",
+            "efik": "ndidem",
+            "yoruba": "agba",
+            "confidence": 0.6
+        },
+        "people": {
+            "best": "mme nte",
+            "ibibio": "mme nte",
+            "efik": "mme",
+            "yoruba": "enia",
+            "confidence": 0.6
+        },
+        "thank you": {
+            "best": "Sosongo",
+            "ibibio": "Sosongo",
+            "efik": "Sosongo",
+            "yoruba": "E se",
+            "confidence": 0.35
+        },
+        "good morning": {
+            "best": "Ememe nnyin",
+            "ibibio": "Ememe nnyin",
+            "efik": "Ememe",
+            "yoruba": "Ẹ káàárọ̀",
+            "confidence": 0.6
+        },
+        "learning": {
+            "best": "edisua",
+            "ibibio": "edisua",
+            "efik": "isua",
+            "yoruba": "eko",
+            "confidence": 0.6
+        },
+        "god": {
+            "best": "Abasi",
+            "ibibio": "Abasi",
+            "efik": "Abasi",
+            "yoruba": "Olorun",
+            "confidence": 0.35
+        },
+        "love": {
+            "best": "okut",
+            "ibibio": "okut",
+            "efik": "ke",
+            "yoruba": "ife",
+            "confidence": 0.6
+        },
+        "house": {
+            "best": "ufok",
+            "ibibio": "ufok",
+            "efik": "ufok",
+            "yoruba": "ile",
+            "confidence": 0.35
+        },
+        "child": {
+            "best": "emi",
+            "ibibio": "emi",
+            "efik": "emi",
+            "yoruba": "omo",
+            "confidence": 0.35
+        },
+        "water": {
+            "best": "mmong",
+            "ibibio": "mmong",
+            "efik": "mmong",
+            "yoruba": "omi",
+            "confidence": 0.35
+        }
+    },
+    "statistics": {
+        "total_sentences": 438,
+        "unique_words": 160,
+        "unique_phonemes": 30,
+        "bpe_merges_performed": 30,
+        "syllable_pattern_types": 56
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "original_pairs": 286,
+  "augmented_pairs": 438,
+  "increase_percentage": 53.1,
+  "techniques": {
+    "synonym_substitution": 381,
+    "template_generation": 120,
+    "morphological_variation": 14,
+    "tone_pairs": 8,
+    "pronoun_variation": 10,
+    "tense_variation": 4
+  },
+  "duplicates_removed": 385
+}

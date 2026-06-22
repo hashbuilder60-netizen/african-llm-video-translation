@@ -1,0 +1,42 @@
+[
+  {
+    "segment_id": 1,
+    "start": 0.0,
+    "end": 4.42,
+    "original": "We have breaking news now in Sydney where two officers have escaped serious injury after",
+    "translation": "A ni breaking iroyin bayi ni Sydney nibiti meji osisẹ ti sa ipalara to kpeme",
+    "language": "ibibio"
+  },
+  {
+    "segment_id": 2,
+    "start": 4.42,
+    "end": 8.0,
+    "original": "a police car crashed and flipped in the city's west.",
+    "translation": "mọ́tò ọlọ́pàá kan ṣubú, ó sì ṣubú ní ìhà ìwọ̀ oòrùn ìlú.",
+    "language": "ibibio"
+  },
+  {
+    "segment_id": 3,
+    "start": 8.0,
+    "end": 12.0,
+    "original": "It landed on its roof in Gilford around 5.30 this morning when the constables from Auburn",
+    "translation": "Ó dé orí òrùlé rẹ̀ ní Gilford ní ayika 5.30 owurọ yii nigba ti awọn constables lati Auburn",
+    "language": "ibibio"
+  },
+  {
+    "segment_id": 4,
+    "start": 12.0,
+    "end": 16.48,
+    "original": "were responding to reports of men acting suspiciously in a car.",
+    "translation": "wọ́n sì ń fetí sí ìròyìn nípa àwọn ọkùnrin tó ń hùwà ìbàjẹ́ nínú ọkọ̀.",
+    "language": "ibibio"
+  },
+  {
+    "segment_id": 5,
+    "start": 16.48,
+    "end": 18.96,
+    "original": "Both officers are now being checked out at hospital.",
+    "translation": "Àwọn òṣìṣẹ́ méjèèjì ni wọ́n ń ṣàyẹ̀wò ní ilé ìwòsàn báyìí.",
+    "language": "ibibio"
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "segment_id": 1,
+    "start": 0.0,
+    "end": 5.68,
+    "original": "I want to show you how to research anything because research is power.",
+    "translation": "Ndikufuna kukuonetsani mmene mungafufuzire chilichonse chifukwa kufufuza ndi mphamvu.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 2,
+    "start": 5.68,
+    "end": 10.0,
+    "original": "It's also a skill and once you learn how to do it, you can literally teach yourself",
+    "translation": "Komanso ndi luso ndipo mukaphunzira kuchita zimenezi, mukhoza kudziphunzitsa nokha.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 3,
+    "start": 10.0,
+    "end": 11.0,
+    "original": "whatever you want.",
+    "translation": "chilichonse chimene mukufuna.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 4,
+    "start": 11.0,
+    "end": 14.76,
+    "original": "And if come to realize lately that most people don't know how to research, they know how",
+    "translation": "Ndipo ngati mutazindikira posachedwapa kuti anthu ambiri sadziwa kufufuza, iwo amadziwa momwe",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 5,
+    "start": 14.76,
+    "end": 15.76,
+    "original": "to search.",
+    "translation": "kuti tifufuze.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 6,
+    "start": 15.76,
+    "end": 19.88,
+    "original": "And there's actually a very big difference because when you search, you're relying on other",
+    "translation": "Ndipo pali kusiyana kwakukulu chifukwa pamene inu kufufuza, inu kudalira ena",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 7,
+    "start": 19.88,
+    "end": 22.44,
+    "original": "people to think for you and we don't want that.",
+    "translation": "anthu kuti akuganizireni ndipo sitikufuna zimenezo.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 8,
+    "start": 22.44,
+    "end": 23.84,
+    "original": "We want to do better.",
+    "translation": "Tikufuna kuchita bwino.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 9,
+    "start": 23.84,
+    "end": 26.080000000000002,
+    "original": "So yeah, research has levels to it.",
+    "translation": "Chotero, inde, kafukufuku ali ndi miyezo yake.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 10,
+    "start": 26.080000000000002,
+    "end": 29.560000000000002,
+    "original": "My system that I use has four, so I'm going to walk you through them.",
+    "translation": "Dongosolo langa limene ndimagwiritsa ntchito lili ndi zinayi, choncho ndikuuzani zimene mungachite.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 11,
+    "start": 29.56,
+    "end": 31.68,
+    "original": "One is your surface search.",
+    "translation": "Chimodzi ndi kufufuza kwanu.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 12,
+    "start": 31.68,
+    "end": 35.6,
+    "original": "This is where you need to start, but this is also where most people stop.",
+    "translation": "Apa ndi pamene muyenera kuyamba, koma apa ndi pamene anthu ambiri amaima.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 13,
+    "start": 35.6,
+    "end": 41.76,
+    "original": "This is your Google search, the TikTok videos, the YouTube explanations, the AI answers.",
+    "translation": "Pano pali kufufuza kwanu pa Google, mavidiyo a TikTok, mafotokozedwe a YouTube, mayankho a AI.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 14,
+    "start": 41.76,
+    "end": 46.519999999999996,
+    "original": "And the problem with stopping here is that you're getting compressed conclusions and you're",
+    "translation": "Ndipo vuto ndi kusiya pano ndi kuti inu kupeza oponderezedwa mfundo ndipo inu",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 15,
+    "start": 46.519999999999996,
+    "end": 48.64,
+    "original": "not understanding how they were built.",
+    "translation": "osadziŵa mmene anamangidwira.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 16,
+    "start": 48.64,
+    "end": 49.64,
+    "original": "So let's take an example.",
+    "translation": "Ndiye tiyeni titenge chitsanzo.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 17,
+    "start": 49.64,
+    "end": 55.0,
+    "original": "Let's say that you search up what is dark matter and you get results like, well, it",
+    "translation": "Tiyerekeze kuti mwafufuza zinthu zakuda ndipo mwapeza zotsatira ngati,",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 18,
+    "start": 55.0,
+    "end": 57.6,
+    "original": "makes up 85% of the universe.",
+    "translation": "chimapanga 85% ya chilengedwe chonse.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 19,
+    "start": 57.6,
+    "end": 58.76,
+    "original": "We can't see it.",
+    "translation": "Sitingachione.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 20,
+    "start": 58.76,
+    "end": 60.52,
+    "original": "It affects gravity.",
+    "translation": "Zimakhudza mphamvu yokoka.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 21,
+    "start": 60.52,
+    "end": 65.12,
+    "original": "You get all these facts, but you still don't understand things like how do we know that",
+    "translation": "Mumapeza mfundo zonsezi, koma simukumvetsabe zinthu monga mmene tikudziwira kuti",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 22,
+    "start": 65.12,
+    "end": 71.44,
+    "original": "it exists or what evidence actually supports it or what competing theories to it are?",
+    "translation": "Kodi pali umboni wotani umene umatsimikizira zimenezi?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 23,
+    "start": 71.44,
+    "end": 73.48,
+    "original": "So how do you level one correctly?",
+    "translation": "Ndiye kodi mungatani kuti muyese nambala imodzi molondola?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 24,
+    "start": 73.48,
+    "end": 77.4,
+    "original": "You use it as orientation for yourself and not education.",
+    "translation": "Mumagwiritsa ntchito ngati malangizo anu osati maphunziro anu.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 25,
+    "start": 77.4,
+    "end": 83.56,
+    "original": "So your goal at this level should be learning the vocabulary, identifying the key concepts",
+    "translation": "Chotero cholinga chanu pa mlingo umenewu chiyenera kukhala kuphunzira mawu, kudziŵa mfundo zazikulu",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 26,
+    "start": 83.56,
+    "end": 87.76,
+    "original": "and generating more questions for yourself, figuring out what you still don't know and",
+    "translation": "ndi kupanga mafunso ambiri kwa inu nokha, kupeza zimene simukudziwabe ndi",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 27,
+    "start": 87.76,
+    "end": 89.92,
+    "original": "what you're still really curious about.",
+    "translation": "chimene ukufunabe kudziwa.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 28,
+    "start": 89.92,
+    "end": 94.8,
+    "original": "You spend 10 to 15 minutes doing the search at level one, like maximum.",
+    "translation": "Mumathera mphindi 10 mpaka 15 mukufufuza pamalo oyamba.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 29,
+    "start": 94.8,
+    "end": 99.0,
+    "original": "And then you stop and you ask yourself, what do I still not understand?",
+    "translation": "Ndiyeno mumadzifunsa kuti, 'Kodi sindikumvetsabe chiyani?'",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 30,
+    "start": 99.0,
+    "end": 102.16,
+    "original": "And that question is your doorway to your level two.",
+    "translation": "Ndipo funso limenelo ndilo khomo lanu lofikira pa mlingo wanu wachiŵiri.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 31,
+    "start": 102.16,
+    "end": 104.76,
+    "original": "Level two is source expansion.",
+    "translation": "Gawo lachiŵiri ndilo kufalikira kwa magwero.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 32,
+    "start": 104.76,
+    "end": 107.16,
+    "original": "This is where you begin to really investigate.",
+    "translation": "Apa ndi pamene mungayambe kufufuza kwenikweni.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 33,
+    "start": 107.16,
+    "end": 108.76,
+    "original": "So what does this look like?",
+    "translation": "Ndiye kodi zimenezi zikuoneka bwanji?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 34,
+    "start": 108.76,
+    "end": 111.88000000000001,
+    "original": "This is clicking sources and articles.",
+    "translation": "Zimenezi zikuphatikizapo kusindikiza magwero ndi nkhani.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 35,
+    "start": 111.88000000000001,
+    "end": 115.52000000000001,
+    "original": "It's reading entire studies instead of just the summary of the study.",
+    "translation": "Amaŵerenga maphunziro athunthu m'malo moŵerenga mwachidule phunziroli.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 36,
+    "start": 115.52000000000001,
+    "end": 119.12,
+    "original": "It's following links and citations and references.",
+    "translation": "Ikutsatira maulalo ndi zolemba ndi maumboni.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 37,
+    "start": 119.12,
+    "end": 120.52000000000001,
+    "original": "This is where you go from.",
+    "translation": "Pano ndi pamene inu kupita.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 38,
+    "start": 120.52000000000001,
+    "end": 121.52000000000001,
+    "original": "What is this?",
+    "translation": "Kodi zimenezi n'chiyani?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 39,
+    "start": 121.52000000000001,
+    "end": 123.52000000000001,
+    "original": "To where did this come from?",
+    "translation": "Kodi zimenezi zinachokera kuti?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 40,
+    "start": 123.52000000000001,
+    "end": 125.68,
+    "original": "Let's go back to the dark matter example.",
+    "translation": "Tiyeni tibwerere ku chitsanzo cha zinthu zakuda.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 41,
+    "start": 125.68,
+    "end": 128.64000000000001,
+    "original": "Now you're no longer staying on Google or TikTok.",
+    "translation": "Tsopano simukhalabe pa Google kapena TikTok.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 42,
+    "start": 128.64000000000001,
+    "end": 130.76,
+    "original": "You are opening the NASA page.",
+    "translation": "Mukutsegula tsamba la NASA.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 43,
+    "start": 130.76,
+    "end": 132.64000000000001,
+    "original": "You're clicking the cited research.",
+    "translation": "Inu mukudina pa kafukufuku wotchulidwa.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 44,
+    "start": 132.64000000000001,
+    "end": 138.52,
+    "original": "You're opening up the Galaxy Rotation Curve Study and you're seeing the observations by",
+    "translation": "Mukutsegula Kafukufuku wa Galactic Rotation Curve ndipo mukuona ma observations a",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 45,
+    "start": 138.52,
+    "end": 139.52,
+    "original": "scientists.",
+    "translation": "asayansi.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 46,
+    "start": 139.52,
+    "end": 144.4,
+    "original": "So this is so important because now you are seeing the evidence and not just the conclusion.",
+    "translation": "Chotero zimenezi n'zofunika kwambiri chifukwa tsopano mukuona umboni osati kungofika pamapeto.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 47,
+    "start": 144.4,
+    "end": 148.08,
+    "original": "So how do you level to properly open everything?",
+    "translation": "Ndiye kodi mungatani kuti mutsegule zonse moyenera?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 48,
+    "start": 148.08,
+    "end": 149.64000000000001,
+    "original": "Don't just read the page and close it down.",
+    "translation": "Osangowerenga tsamba n'kutseka.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 49,
+    "start": 149.64000000000001,
+    "end": 153.60000000000002,
+    "original": "You should have five to ten tabs open of everything that you're looking at.",
+    "translation": "Muyenera kukhala ndi ma tabu asanu kapena khumi otseguka pa chilichonse chimene mukuyang'ana.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 50,
+    "start": 153.60000000000002,
+    "end": 156.4,
+    "original": "You should be following citations backwards at this point.",
+    "translation": "Panopa muyenera kutsatira zimene anthu akunena.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 51,
+    "start": 156.4,
+    "end": 161.76000000000002,
+    "original": "So going from the article to the study to the original data, all of that is always pretty",
+    "translation": "Kotero kupita ku nkhani kuti phunziro kuti deta choyambirira, zonse kuti nthawizonse wokongola",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 52,
+    "start": 161.76000000000002,
+    "end": 162.76000000000002,
+    "original": "much linked.",
+    "translation": "Zinali zogwirizana kwambiri.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 53,
+    "start": 162.76,
+    "end": 169.76,
+    "original": "You should be prioritizing.edu's.gov's, published papers, any content from the expert in the",
+    "translation": "Muyenera kuika patsogolo.edu's.gov's, zolemba zofalitsidwa, zilizonse kuchokera kwa katswiri mu",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 54,
+    "start": 169.76,
+    "end": 170.76,
+    "original": "field.",
+    "translation": "m'munda.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 55,
+    "start": 170.76,
+    "end": 176.0,
+    "original": "And you should be asking yourself, what is this claim that I'm looking up based on?",
+    "translation": "Ndipo muyenera kudzifunsa kuti, kodi zimene ndikufunazi n'zotani?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 56,
+    "start": 176.0,
+    "end": 179.79999999999998,
+    "original": "Because if you can't answer that, you are probably still back at level one.",
+    "translation": "Chifukwa ngati simungathe kuyankha funso limenelo, ndiye kuti mwangoyamba kumene.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 57,
+    "start": 179.79999999999998,
+    "end": 182.95999999999998,
+    "original": "I get into level three, which is pattern recognition.",
+    "translation": "Ndimalowa m'chigawo chachitatu, chimene ndi kuzindikira kachitidwe.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 58,
+    "start": 182.95999999999998,
+    "end": 187.51999999999998,
+    "original": "And I think that this is the level where the truth really starts to show up because",
+    "translation": "Ndipo ine ndikuganiza kuti ili ndi mlingo kumene choonadi kwenikweni akuyamba kuonekera chifukwa",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 59,
+    "start": 187.52,
+    "end": 193.04000000000002,
+    "original": "at this level, your main focus is comparing multiple sources and you're paying attention",
+    "translation": "pa mlingo uwu, cholinga chanu chachikulu ndi kuyerekezera magwero angapo ndipo inu kumvetsera",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 60,
+    "start": 193.04000000000002,
+    "end": 196.0,
+    "original": "to agreements and contradictions among them.",
+    "translation": "ku mapangano ndi mikangano pakati pawo.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 61,
+    "start": 196.0,
+    "end": 199.88,
+    "original": "You are identifying repeated ideas that you see.",
+    "translation": "Mukuzindikira mfundo zimene mukuziona mobwerezabwereza.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 62,
+    "start": 199.88,
+    "end": 205.20000000000002,
+    "original": "You're really looking for things that show up repeatedly across those sources, whether",
+    "translation": "Mukuyang'ana zinthu zimene zimaonekera mobwerezabwereza pa magwero amenewo, kaya",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 63,
+    "start": 205.20000000000002,
+    "end": 211.48000000000002,
+    "original": "they are numbers or questions or ideas or arguments because it shows that they are important.",
+    "translation": "ndi manambala kapena mafunso kapena malingaliro kapena zifukwa chifukwa zimasonyeza kuti ndi zofunika.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 64,
+    "start": 211.48000000000002,
+    "end": 215.16000000000003,
+    "original": "Let's say that you read six different sources on dark matter.",
+    "translation": "Tiyerekeze kuti mwawerenga zinthu zisanu ndi chimodzi zosiyana pa nkhani yamdima.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 65,
+    "start": 215.16,
+    "end": 219.35999999999999,
+    "original": "And six of them said that Galaxy rotation does not match visible mass and one of them",
+    "translation": "Ndipo asanu ndi mmodzi mwa iwo anati kuti galaxy kuzungulira siligwirizana ndi misa kuoneka ndi mmodzi wa iwo",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 66,
+    "start": 219.35999999999999,
+    "end": 221.8,
+    "original": "said that maybe gravity laws are wrong.",
+    "translation": "ananena kuti mwina malamulo a mphamvu yokoka ndi olakwika.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 67,
+    "start": 221.8,
+    "end": 226.28,
+    "original": "So now you really see the consensus happening within the topic itself.",
+    "translation": "Kotero tsopano mukuona kugwirizana kukuchitika mkati mwa mutu womwewo.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 68,
+    "start": 226.28,
+    "end": 231.24,
+    "original": "You see the outliers and you see the debate that exists and you're starting to get a real",
+    "translation": "Inu mukuona zodabwitsa ndi inu mukuona mkangano umene ulipo ndipo inu mukuyamba kupeza weniweni",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 69,
+    "start": 231.24,
+    "end": 233.28,
+    "original": "understanding of what you're learning about.",
+    "translation": "kumvetsa zimene mukuphunzira.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 70,
+    "start": 233.28,
+    "end": 236.72,
+    "original": "At any level, three properly, you look for overlap.",
+    "translation": "Pa mlingo uliwonse, katatu molondola, mumayang'ana kuti muzigwirizana.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 71,
+    "start": 236.72,
+    "end": 239.0,
+    "original": "So what do most of the sources agree on?",
+    "translation": "Ndiye kodi anthu ambiri amagwirizana pa chiyani?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 72,
+    "start": 239.0,
+    "end": 241.64,
+    "original": "You also should be noticing the disagreement.",
+    "translation": "Inunso muyenera kuona kusamvana.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 73,
+    "start": 241.64,
+    "end": 245.72,
+    "original": "So figure out where the experts diverge on that topic.",
+    "translation": "Choncho ganizirani zimene akatswiri amasiyana pa nkhaniyi.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 74,
+    "start": 245.72,
+    "end": 247.92,
+    "original": "You should be ranking the evidence that you find.",
+    "translation": "Muyenera kufufuza umboni umene mwapeza.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 75,
+    "start": 247.92,
+    "end": 251.88,
+    "original": "You can separate it into strong evidence versus speculation.",
+    "translation": "Mungathe kusiyanitsa umboni wamphamvu ndi malingaliro.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 76,
+    "start": 251.88,
+    "end": 257.03999999999996,
+    "original": "You can also create like three mental buckets or write them down if you want to obviously.",
+    "translation": "Mukhozanso kupanga mababu atatu a maganizo kapena kuwalemba ngati mukufuna.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 77,
+    "start": 257.03999999999996,
+    "end": 262.03999999999996,
+    "original": "But one is information you find that's consistent across all the sources.",
+    "translation": "Koma chimodzi ndi chidziŵitso chimene mukuchipeza chimene chili chofanana pakati pa magwero onse.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 78,
+    "start": 262.03999999999996,
+    "end": 267.68,
+    "original": "Another one for information that is debated and another one for information that is uncertain.",
+    "translation": "Chimodzi ndi chidziŵitso chimene chikukambitsirana ndipo china ndi chidziŵitso chosatsimikizirika.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 79,
+    "start": 267.68,
+    "end": 272.02,
+    "original": "And by doing that, you are actually teaching yourself and building your own intellectual",
+    "translation": "Ndipo mwa kuchita zimenezo, mukudziphunzitsa nokha ndi kumanga nzeru zanu",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 80,
+    "start": 272.02,
+    "end": 273.72,
+    "original": "judgment on the topic.",
+    "translation": "Kuweruza nkhaniyo.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 81,
+    "start": 273.72,
+    "end": 278.96,
+    "original": "A level for the depth and framework level because this is where you stop learning information",
+    "translation": "Mlingo wa kuzama ndi maziko mlingo chifukwa apa ndi pamene inu kusiya kuphunzira mfundo",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 82,
+    "start": 278.96,
+    "end": 281.8,
+    "original": "and you start thinking in systems.",
+    "translation": "ndipo mumayamba kuganiza m'machitidwe.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 83,
+    "start": 281.8,
+    "end": 283.52,
+    "original": "You are asking better questions.",
+    "translation": "Inu mukufunsa mafunso abwino.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 84,
+    "start": 283.52,
+    "end": 288.4,
+    "original": "You are building mental models of the topic that you're researching and you're starting",
+    "translation": "Mukumanga zitsanzo zamaganizo za mutu womwe mukufufuza ndipo mukuyamba",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 85,
+    "start": 288.4,
+    "end": 292.8,
+    "original": "to connect ideas across different fields of research.",
+    "translation": "kuti agwirizanitse maganizo m'magulu osiyanasiyana a kafukufuku.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 86,
+    "start": 292.8,
+    "end": 298.0,
+    "original": "So you're really looking for the structure behind the topic of whatever you're researching.",
+    "translation": "Kotero inu mukuyang'ana kwenikweni kapangidwe kumbuyo mutu wa chirichonse chimene inu kufufuza.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 87,
+    "start": 298.0,
+    "end": 302.68,
+    "original": "Instead of asking what is dark matter, we're asking deeper questions.",
+    "translation": "M'malo mofunsa kuti chinthu chakuda n'chiyani, tikufunsa mafunso ofunika kwambiri.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 88,
+    "start": 302.68,
+    "end": 308.0,
+    "original": "We're asking things like why does gravity behave this way or what assumptions are built",
+    "translation": "Timafunsa zinthu monga chifukwa chake mphamvu yokoka imagwira ntchito mwanjira imeneyi kapena ndi malingaliro ati omwe amapangidwa",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 89,
+    "start": 308.0,
+    "end": 313.48,
+    "original": "into our existing model of dark matter or what would have to be true for all of this",
+    "translation": "m'chitsanzo chathu chilipo cha zinthu zakuda kapena chimene chingakhale chowona kwa zonsezi",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 90,
+    "start": 313.48,
+    "end": 315.48,
+    "original": "to be wrong.",
+    "translation": "kuti ndilakwe.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 91,
+    "start": 315.48,
+    "end": 320.36,
+    "original": "You are really training yourself to think more deeply and to ask better questions, which",
+    "translation": "Mukudziphunzitsa nokha kuganiza mozama ndi kufunsa mafunso abwino, amene",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 92,
+    "start": 320.36,
+    "end": 322.36,
+    "original": "is very important in research.",
+    "translation": "ndi yofunika kwambiri pa kafukufuku.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 93,
+    "start": 322.36,
+    "end": 327.88,
+    "original": "The level we are asking second order questions, we are not just asking what, but why and",
+    "translation": "Pa mlingo umene tikufunsa mafunso a dongosolo lachiwiri, sitifunsa chabe chiyani, koma chifukwa ndi",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 94,
+    "start": 327.88,
+    "end": 331.16,
+    "original": "what if we are building on our mental models.",
+    "translation": "Nanga bwanji ngati tikumanga pa zitsanzo zathu za maganizo?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 95,
+    "start": 331.16,
+    "end": 334.12,
+    "original": "So take a piece of paper and draw it out in front of you, right?",
+    "translation": "Chotero tengani pepala ndi kulijambula pamaso panu, chabwino?",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 96,
+    "start": 334.12,
+    "end": 337.12,
+    "original": "Dark matter, it's a placeholder for missing math.",
+    "translation": "Chinthu chakuda, ndi malo osungira masamu.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 97,
+    "start": 337.12,
+    "end": 339.0,
+    "original": "It's inferred from gravitational effects.",
+    "translation": "Zimenezi zinatsatiridwa ndi mphamvu ya mphamvu yokoka.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 98,
+    "start": 339.0,
+    "end": 341.2,
+    "original": "It's not directly observable.",
+    "translation": "Sichioneka mwachindunji.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 99,
+    "start": 341.2,
+    "end": 344.92,
+    "original": "Draw it out so you can see the map of it and start connecting it out.",
+    "translation": "Lembani kuti muone mapu ake ndi kuyamba kugwirizanitsa.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 100,
+    "start": 344.92,
+    "end": 346.08000000000004,
+    "original": "Dark matter is physics.",
+    "translation": "Zinthu zamdima ndi sayansi.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 101,
+    "start": 346.08000000000004,
+    "end": 347.24,
+    "original": "It's cosmology.",
+    "translation": "Ndi cosmology.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 102,
+    "start": 347.24,
+    "end": 349.28000000000003,
+    "original": "It's philosophy of science.",
+    "translation": "Ndi nzeru za sayansi.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 103,
+    "start": 349.28,
+    "end": 354.96,
+    "original": "You can take the information you have and draw it out into what is evidence, what is uncertain,",
+    "translation": "Mungatenge chidziŵitso chimene muli nacho ndi kuchikoka m'zomwe ziri umboni, zimene ziri zosatsimikizika,",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 104,
+    "start": 354.96,
+    "end": 358.55999999999995,
+    "original": "what about the topic is the limitations of our knowledge.",
+    "translation": "zimene zili pamutuwu ndi malire a chidziwitso chathu.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 105,
+    "start": 358.55999999999995,
+    "end": 362.59999999999997,
+    "original": "When you start to draw it out in front of you and build a model that you start to see",
+    "translation": "Pamene muyamba kujambula patsogolo panu ndi kupanga chitsanzo chimene muyamba kuona",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 106,
+    "start": 362.59999999999997,
+    "end": 366.32,
+    "original": "all of the connections and you start to see all the missing gaps.",
+    "translation": "Zolumikizana zonse ndipo mumayamba kuona zoperewera zonse zomwe zikusowa.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 107,
+    "start": 366.32,
+    "end": 370.15999999999997,
+    "original": "And it is crazy how much that really helps your understanding of it.",
+    "translation": "Ndipo n'zosadabwitsa kuti zimenezi zimakuthandizani kwambiri kumvetsa nkhani imeneyi.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 108,
+    "start": 370.15999999999997,
+    "end": 373.59999999999997,
+    "original": "The thing about research is that it is not linear, it is a loop.",
+    "translation": "Chinthu chokhudza kufufuza n'chakuti si chotsogola, koma ndi loop.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 109,
+    "start": 373.59999999999997,
+    "end": 377.71999999999997,
+    "original": "So you search and then you expand and then you compare and then you build those mental",
+    "translation": "Kotero inu kufufuza ndiyeno inu kukulitsa ndiyeno inu kuyerekeza ndiyeno inu kumanga maganizo amenewo",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 110,
+    "start": 377.72,
+    "end": 378.72,
+    "original": "models.",
+    "translation": "zitsanzo.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 111,
+    "start": 378.72,
+    "end": 381.24,
+    "original": "And from those mental models you get better questions.",
+    "translation": "Ndipo kuchokera ku zitsanzo za maganizo amenewa mumapeza mafunso abwino.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 112,
+    "start": 381.24,
+    "end": 385.64000000000004,
+    "original": "And then you repeat it all over again with the better questions you search and you expand",
+    "translation": "Ndipo ndiye inu kubwereza zonse mobwerezabwereza ndi mafunso bwino inu kufufuza ndi inu kukulitsa",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 113,
+    "start": 385.64000000000004,
+    "end": 388.68,
+    "original": "again and you compare and you build more models.",
+    "translation": "kachiwiri ndi inu kuyerekeza ndi inu kupanga zitsanzo zambiri.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 114,
+    "start": 388.68,
+    "end": 391.72,
+    "original": "And that is how you learn how to think for yourself.",
+    "translation": "Ndipo umu ndi mmene mumaphunzirira kuganiza nokha.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 115,
+    "start": 391.72,
+    "end": 394.68,
+    "original": "That is how you truly begin to understand something.",
+    "translation": "Umu ndi mmene mumayamba kumvetsa zinthu.",
+    "language": "chichewa"
+  },
+  {
+    "segment_id": 116,
+    "start": 394.68,
+    "end": 399.0,
+    "original": "And that is how following your curiosity becomes very, very powerful.",
+    "translation": "Ndipo n'chifukwa chake kutsatira chidwi chanu kumakhala kwamphamvu kwambiri.",
+    "language": "chichewa"
+  }
+]
